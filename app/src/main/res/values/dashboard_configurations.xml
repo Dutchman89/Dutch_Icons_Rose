@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <!-- ======================================================================================= -->
+    <!-- ============================== DASHBOARD CONFIGURATIONS =============================== -->
+    <!-- ======================================================================================= -->
+
+    <!-- CONFIG: DEFAULT THEME -->
+    <string name="Dutch.Icons.Rose">auto</string>
+
+    <!-- CONFIG: MUZEI -->
+    <string name="muzei_art_source_name">Dutch Icons Rose</string>
+    <string name="muzei_art_source_desc">Pleasing wallpapers from Dutch Icons Rose</string>
+    <color name="muzei_color">#0082B4</color>
+
+    <!-- CONFIG: HOME -->
+    <string name="home_title">Dutch Icons Rose</string>
+    <string name="home_image">home_image</string>
+    <string name="home_image_style">card_landscape</string>
+    <string name="home_description">
+        <![CDATA[
+        Dutch Icons Rose is an android iconpack.
+        Build in free time as a hobby beside a full-time job.
+        ]]>
+    </string>
+    <string name="rate_and_review_link">https://play.google.com/store/apps/details?id={{packageName}}</string>
+    <string name="share_link">https://play.google.com/store/apps/details?id={{packageName}}</string>
+    <bool name="enable_check_update">false</bool>
+    <string name="google_play_dev">https://play.google.com/store/apps/dev?id=8752006710108056024</string>
+    <bool name="use_flat_card">true</bool>
+
+    <!-- CONFIG: NAVIGATION VIEW HEADER -->
+    <string name="navigation_view_header">nav_head</string>
+    <string name="navigation_view_header_title">Dutch Icons Rose</string>
+    <bool name="enable_apply">true</bool>
+
+    <!-- CONFIG: ICONS -->
+    <bool name="enable_icons_sort">true</bool>
+    <bool name="show_icon_name">true</bool>
+    <bool name="includes_adaptive_icons">true</bool>
+
+    <!-- CONFIG: ICON REQUEST -->
+    <bool name="enable_icon_request">true</bool>
+    <bool name="enable_icon_request_limit">true</bool>
+    <integer name="icon_request_limit">10</integer>
+    <bool name="reset_icon_request_limit">true</bool>
+    <bool name="json_check_before_request">false</bool>
+    <bool name="enable_premium_request">true</bool>
+    <bool name="enable_non_mail_app_request">false</bool>
+    <bool name="hide_missing_app_count">false</bool>
+    <string name="regular_request_method">email</string>
+    <string name="premium_request_method">email</string>
+    <string name="regular_request_email">dutch.iconpack@gmail.com</string>
+    <string name="premium_request_email">dutch.iconpack@gmail.com</string>
+    <string name="regular_request_email_subject"> regular request Rose</string>
+    <string name="premium_request_email_subject">premium request Rose</string>
+    <string name="regular_request_arctic_api_key"><!--f2a96282-31d0-42b7-b802-5487f2931113--></string>
+    <string name="premium_request_arctic_api_key"></string>
+
+    <!-- CONFIG: CLOUD WALLPAPERS -->
+    <string name="wallpaper_json">https://zixpo.github.io/candybar-sources/walls_alt.json</string>
+    <bool name="enable_wallpaper_download">true</bool>
+    <bool name="wallpaper_show_name_author">true</bool>
+    <string name="wallpaper_grid_preview_style">square</string>
+
+    <!-- CONFIG: ABOUT -->
+    <string name="about_image">https://imgur.com/gallery/1p2H22j</string>
+    <string name="about_profile_image">about_image</string>
+    <string name="about_title">Dutch Icons Rose</string>
+    <string name="about_desc">
+        <![CDATA[
+        <b>Dutch Icons Rose is an android iconpack</b>.
+        Build in free time as a hobby beside a full-time job.
+        ]]>
+    </string>
+    <string-array name="about_social_links">
+        <item>https://twitter.com/DutchIcons</item>
+        <item>dutch.iconpack@gmail.com</item>
+    </string-array>
+    <bool name="show_contributors_dialog">false</bool>
+    <string name="privacy_policy_link">https://app-privacy-policy-generator.firebaseapp.com/</string>
+    <string name="terms_and_conditions_link">https://app-privacy-policy-generator.firebaseapp.com/</string>
+
+    <!-- CONFIG: DONATE -->
+    <bool name="enable_donation">true</bool>
+
+    <!-- CONFIG: MISC -->
+    <bool name="playstore_check_enabled">false</bool>
+    <string name="config_json">https://zixpo.github.io/candybar-sources/candybar_config_alt.json</string>
+    <bool name="show_intro">true</bool>
+
+</resources>

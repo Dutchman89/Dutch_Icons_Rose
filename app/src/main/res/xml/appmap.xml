@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<appmap>
+    <item class="com.abercrombie.abercrombie.ui.splash.SplashScreenActivity" name="a_f"/>
+    <item class="com.abclocal.kgo.news/com.abclocal.kgo.news.AppDelegate" name="abc" />
+    <item class="live.ablo.main.MainActivity" name="ablo"/>
+    <item class="com.digibites.accubattery/com.digibites.abatterysaver.BatterySaverActivity" name="accubattery" />
+    <item class="com.digibites.abatterysaver.BatterySaverActivity" name="accubattery"/>
+    <item class="com.accuweather.amazon.paid.android/com.accuweather.amazon.paid.android.LauncherActivity" name="accuweather" />
+    <item class="com.accuweather.android.simpleweather.paid/com.accuweather.android.simpleweather.paid.MainActivity" name="accuweather" />
+    <item class="com.accuweather.android.simpleweather/com.accuweather.android.simpleweather.MainActivity" name="accuweather" />
+    <item class="com.accuweather.android.simpleweatherlite.dellstreak/com.accuweather.android.simpleweatherlite.dellstreak.MainActivity" name="accuweather" />
+    <item class="com.accuweather.android.simpleweatherlite/com.accuweather.android.simpleweatherlite.MainActivity" name="accuweather" />
+    <item class="com.accuweather.android.tablet/com.accuweather.android.tablet.LauncherActivity" name="accuweather" />
+    <item class="com.accuweather.android.tablet/com.accuweather.android.tablet.Main" name="accuweather" />
+    <item class="com.accuweather.android/com.accuweather.android.AccuWeather" name="accuweather" />
+    <item class="com.accuweather.android/com.accuweather.android.LauncherActivity" name="accuweather" />
+    <item class="com.accuweather.android/com.accuweather.android.MainActivity" name="accuweather" />
+    <item class="com.accuweather.android/com.accuweather.app.SplashScreen" name="accuweather" />
+    <item class="com.accuweather.paid.android/com.accuweather.app.SplashScreen" name="accuweather" />
+    <item class="com.accuweather.paid.android/com.accuweather.paid.android.LauncherActivity" name="accuweather" />
+    <item class="com.cyberlink.actiondirector.page.splash.SplashActivity" name="actiondirector"/>
+    <item class="com.adguard.android.ui.MainActivity" name="adguard"/>
+    <item class="com.adguard.android/com.adguard.android.ui.SplashActivity" name="adguard" />
+    <item class="com.dv.adm.pay/com.dv.adm.pay.Main" name="adm_pro" />
+    <item class="com.dv.adm/com.dv.adm.AMain" name="adm_pro" />
+    <item class="com.dv.adm/com.dv.adm.Main" name="adm_pro" />
+    <item class="com.dv.adm.pay.Main" name="adm_pro"/>
+    <item class="com.adobe.cc.SplashScreen" name="adobe_creative_cloud" />
+    <item class="com.unity3d.player.UnityPlayerActivity" name="player_games_2"/>
+    <item class="com.miniclip.eightballpool.EightBallPoolActivity" name="ball_pool_8"/>
+    <item class="org.kustom.api.dashboard.DashboardActivity" name="a12_hybrid_for_kwgt"/>
+    <item class="com.airconsole.controller.MainActivity" name="airconsole"/>
+    <item class="org.kustom.api.dashboard.DashboardActivity" name="andro_12_darkmorphism_kwgt"/>
+    <item class="org.kustom.api.dashboard.DashboardActivity" name="android_12_for_kwgt_pro"/>
+    <item class="beeuikwgt.kustom.pack.MainActivity" name="beeui_kwgt"/>
+    <item class="clementkwgt.kustom.pack.MainActivity" name="clement_kwgt"/>
+    <item class="com.Tq.CQ2ClientAndroid.CQ2ClientActivity" name="conqueronline"/>
+    <item class="com.samsung.android.app.goodcatch.main.activity.MainActivity" name="samsung_one_nice_catch"/>
+    <item class="com.samsung.android.forest.launcher.LauncherActivity" name="digitaal_welzijn"/>
+    <item class="com.jozedi.butterfly.MainActivity" name="enovix"/>
+    <item class="nl.flitsmeister.FM_SIMPLE_BLUE" name="flitsmeister"/>
+    <item class="com.miHoYo.GetMobileInfo.MainActivity" name="genshin_impact"/>
+    <item class="com.android.samsung.utilityapp.app.presentation.welcomepage.WelcomeActivity" name="good_guardians"/>
+    <item class="md5c3b9f2a598bfecc74dbcf3e78960644d.SplashActivity" name="half_a_minute"/>
+    <item class="com.google.firebase.MessagingUnityPlayerActivity" name="hangman"/>
+    <item class="com.zoontek.rnbootsplash.RNBootSplashActivity" name="harderwijk_eet"/>
+    <item class="com.blizzard.wtcg.hearthstone.HearthstoneActivity" name="hearthstone"/>
+    <item class="one4studio.iconpack.selenenoir.activities.SplashActivity" name="hera_dark"/>
+    <item class="de.komoot.android.ui.inspiration.InspirationActivity" name="komoot"/>
+    <item class="app.lawnchair.LawnchairLauncher" name="lawnchair"/>
+    <item class="org.kustom.api.dashboard.DashboardActivity" name="material_u_kwgt"/>
+    <item class="mcdonalds.core.SplashActivity" name="mcdonalds"/>
+    <item class="cs14.pixelperfect.kwgtwidget.one4kwgtpro.MainActivity" name="one4kwgt_pro"/>
+    <item class="dev.potion.kwgt.app.MainActivity" name="potion_kwgt"/>
+    <item class="com.samsung.android.privacy.view.MainActivity.launcher" name="private_share"/>
+    <item class="it.Ettore.raspcontroller.activity.ActivitySplash" name="raspcontroller"/>
+    <item class="com.microsoft.rdc.ui.activities.HomeActivity" name="rd_client"/>
+    <item class="org.kustom.api.dashboard.DashboardActivity" name="rl_kwgt_and_klck"/>
+    <item class="com.byril.seabattle2.AndroidActivity" name="sea_battle_2"/>
+    <item class="moe.shizuku.manager.MainActivity" name="shizuku"/>
+    <item class="com.marsvard.stickermakerforwhatsapp.main.MainActivity" name="sticker_maker"/>
+    <item class="nl.foodticket.app.orderapp4940.OrderApp" name="surifood"/>
+    <item class="nl.cone.berijdersapp.thatslease.MainActivity" name="thats_lease"/>
+    <item class="org.kustom.api.dashboard.DashboardActivity" name="titan_kwgt"/>
+    <item class="com.etermax.preguntados.splash.presentation.SplashActivity" name="trivia_crack"/>
+    <item class="com.realvnc.viewer.android.app.ConnectionChooserActivity" name="vnc_viewer"/>
+    <item class="com.pittvandewitt.wavelet.MainActivity" name="wavelet"/>
+    <item class="crc640a48024d6b0d6cab.MainActivity" name="werknemersloket"/>
+    <item class="com.adobe.photoshopmix/com.adobe.photoshopmix.SplashScreenActivity" name="adobe_photoshop_mix" />
+    <item class="com.adpmobile.android/com.adpmobile.android.ui.AuthAppActivity" name="adp" />
+    <item class="com.adultswim.videoapp.android/com.adultswim.apps.network.MainController" name="adult_swim" />
+    <item class="com.aimp.player/com.aimp.player.views.MainActivity.MainActivity" name="aimp" />
+    <item class="com.airbnb.android/com.airbnb.android.activities.MainActivity" name="airbnb" />
+    <item class="com.sand.airdroid/com.sand.airdroid.SplashActivity_" name="airdroid" />
+    <item class="com.sand.airdroid/com.sand.airdroid.Splash" name="airdroid" />
+    <item class="com.sand.airdroid/com.sand.airdroid.mobi.vserv.android.appwrapper.VservAdManager" name="airdroid" />
+    <item class="com.sand.airdroid/com.sand.airdroid.ui.splash.SplashActivity_" name="airdroid" />
+    <item class="com.myairtelapp/com.myairtelapp.activity.OnboardingActivity" name="airtel" />|
+    <item class="com.aldiko.android.samsung/com.aldiko.android.samsung.ui.Bookshelf" name="aldiko" />
+    <item class="com.aldiko.android/com.aldiko.android.ui.AliasHomeScreen" name="aldiko" />
+    <item class="com.aldiko.android/com.aldiko.android.ui.HomeScreen" name="aldiko" />
+    <item class="com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.SplashActivity" name="aliexpress" />
+    <item class="com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.module.home.MainActivity" name="aliexpress" />
+    <item class="com.alibaba.android.aliexpress/com.alibaba.android.aliexpress.SplashActivity" name="aliexpress" />
+    <item class="com.koushikdutta.allcast/com.koushikdutta.allcast.MainActivity" name="allcast" />
+    <item class="com.koushikdutta.cast.license/com.koushikdutta.cast.license.InstallFree" name="allcast" />
+    <item class="com.koushikdutta.cast.reciever/com.koushikdutta.cast.reciever.MainActivity" name="allcast" />
+    <item class="com.koushikdutta.cast/com.koushikdutta.cast.SearchActivity" name="allcast" />
+    <item class="com.koushikdutta.cast/com.koushikdutta.cast.StartActivity" name="allcast" />
+    <item class="com.allocine.androidapp/com.allocine.androidapp.activities.SplashActivity" name="allocine" />
+    <item class="com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity" name="game_altos_adventure" />
+    <item class="com.amazon.mShop.home.HomeActivity" name="amazon_shop" />
+    <item class="com.amazon.dee.app/com.amazon.dee.webapp.activity.AlexaWebAppActivity" name="amazon_alexa" />
+    <item class="com.amazon.storm.lightning.client.aosp/com.amazon.storm.lightning.client.main.MainActivity" name="amazon_fire_tv" />
+    <item class="com.amazon.kindle/com.amazon.kedu.flashcards.FlashcardsActivity" name="amazon_kindle" />
+    <item class="com.amazon.kindle/com.amazon.kindle.TabletStartActivity" name="amazon_kindle" />
+    <item class="com.amazon.kindle/com.amazon.kindle.UpgradePage" name="amazon_kindle" />
+    <item class="com.amazon.kindle/com.amazon.klo.KindleLearningObjectActivity" name="amazon_kindle" />
+    <item class="com.amazon.now/com.amazon.now.home.WelcomeScreen" name="amazon_prime_now" />
+    <item class="com.americanexpress.android.intl.app.view.activity.SplashActivity" name="amex_nl"/>
+    <item class="fm.anchor.android/anchor.MainActivity" name="anchor" />
+    <item class="com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.cardlist.CardListActivity" name="google_android_pay" />
+    <item class="com.android.camera.Camera" name="anxcamera"/>
+    <item class="com.cisco.anyconnect.ui.PrimaryActivity" name="anyconnect"/>
+    <item class="de.apkgrabber.activity.MainActivity_" name="apkgrabber"/>
+    <item class="com.ext.ui/com.ext.ui.MainActivity" name="apk_extractor" />
+    <item class="com.app2xpr.view.activity.SplashActivity" name="appic"/>
+    <item class="net.tsapps.appsales/net.tsapps.appsales.MainActivity" name="appsales" />
+    <item class="net.tsapps.appsales/net.tsapps.appsales.AppListActivity" name="appsales" />
+    <item class="net.tsapps.appsales/net.tsapps.appsales.MainActivity" name="appsales" />
+    <item class="net.tsapps.appsales/net.tsapps.appsales.MainActivity" name="appsales" />
+    <item class="cm.aptoide.pt.Start" name="aptoide" />
+    <item class="com.askfm/com.askfm.AskfmActivity" name="ask_fm" />
+    <item class="com.askfm/com.askfm.activity.SplashScreenActivity" name="ask_fm" />
+    <item class="com.askfm/com.askfm.welcome.SplashScreenActivity" name="ask_fm" />
+    <item class="com.speaktoit.assistant/com.speaktoit.assistant.SplashActivity" name="assistant" />
+    <item class="com.audible.application/com.audible.application.SplashScreen" name="audible" />
+    <item class="in.codeseed.audify.home.HomeActivity" name="audify"/>
+    <item class="com.authy.authy.activities.InitializationActivity" name="authy"/>
+    <item class="com.authy.authy/com.authy.authy.AuthyMainActivity" name="authy" />
+    <item class="com.authy.authy/com.authy.authy.InitializationActivity" name="authy" />
+    <item class="com.authy.authy/com.authy.authy.UpdateRequiredActivity" name="authy" />
+    <item class="com.authy.authy/com.authy.authy.activities.InitializationActivity" name="authy" />
+    <item class="com.adsk.sketchbook/com.adsk.sketchbook.SketchBook" name="autodesk_sketchbook" />
+    <item class="com.avast.android.mobilesecurity/com.avast.android.mobilesecurity.app.home.HomeActivity" name="avast" />
+    <item class="com.avast.android.mobilesecurity/com.avast.android.mobilesecurity.app.home.StartActivity" name="avast" />
+    <item class="com.avast.android.mobilesecurity/com.avast.android.mobilesecurity.app.main.MainActivity" name="avast" />
+    <item class="com.avito.android/com.avito.android.Launcher" name="avito" />
+    <item class="com.hecorat.screenrecorder.free/com.hecorat.screenrecorder.free.activities.MainActivity" name="az_screen_recorder" />
+    <item class="com.abercrombie.abercrombie.ui.splash.SplashScreenActivity" name="a_f"/>
+    <item class="com.babbel.mobile.android.en/com.babbel.mobile.android.en.BabbelAppStartPage" name="babbel" />
+    <item class="com.babycenter.pregnancytracker/com.babycenter.pregnancytracker.app.InitialDispatcherActivity" name="babycenter" />
+    <item class="com.sec.android.autobackup/com.sec.android.autobackup.AutoBackupLauncherActivity" name="backup" />
+    <item class="com.onelouder.baconreader.premium/com.onelouder.baconreader.FrontPage" name="bacon_reader" />
+    <item class="com.onelouder.baconreader.vpl/com.onelouder.baconreader.FrontPage" name="bacon_reader" />
+    <item class="com.onelouder.baconreader/com.onelouder.baconreader.FrontPage" name="bacon_reader" />
+    <item class="com.onelouder.baconreader/com.onelouder.baconreader.LoginActivity" name="bacon_reader" />
+    <item class="com.badoo.mobile/com.badoo.mobile.android.BadooActivity" name="badoo" />
+    <item class="com.baidu.searchbox.SplashActivity" name="baidu"/>
+    <item class="com.bandcamp.android/com.bandcamp.android.landing.LandingActivity" name="bandcamp" />
+    <item class="com.ionicframework.bash418930.MainActivity" name="bash"/>
+    <item class="com.paget96.batteryguru.activities.SplashScreen" name="batteryguru"/>
+    <item class="com.bbm/com.bbm.ui.activities.StartupActivity" name="bbm" />
+    <item class="se.dagsappar.beer.app.BeerTimeActivity" name="beer_with_me"/>
+    <item class="com.behance.behance/com.behance.network.ui.activities.MainActivity" name="behance" />
+    <item class="com.behance.network.ui.activities.MainActivity" name="behance" />
+    <item class="com.android.messaging.ui.conversationlist.ConversationListActivity" name="berichten"/>
+    <item class="com.tohsoft.filemanager.activities.main.MainActivity" name="bestandsbeheer"/>
+    <item class="com.android.documentsui.LauncherActivity" name="bestanden"/>
+    <item class="com.bestbuy.android.activity.HomeScreen" name="best_buy"/>
+    <item class="com.asksven.betterbatterystats/com.asksven.betterbatterystats.MainActivity" name="better_battery_stats" />
+    <item class="com.asksven.betterbatterystats/com.asksven.betterbatterystats.StatsActivity" name="better_battery_stats" />
+    <item class="com.asksven.betterbatterystats_xdaedition/com.asksven.betterbatterystats.MainActivity" name="better_battery_stats" />
+    <item class="com.asksven.betterbatterystats_xdaedition/com.asksven.betterbatterystats.StatsActivity" name="better_battery_stats" />
+    <item class="com.asksven.betterbatterystats.StatsActivity" name="betterbatterystats"/>
+    <item class="com.pages.Dashboard" name="betternet" />
+    <item class="kr.co.vcnc.android.couple/kr.co.vcnc.android.couple.feature.LaunchActivity" name="between" />
+    <item class="com.tecarta.bible.TitleActivity" name="bible" />
+    <item class="tv.danmaku.bili/tv.danmaku.bili.ui.splash.SplashActivity" name="bilibili" />
+    <item class="com.microsoft.clients.bing.app.MainActivity" name="bing" />
+    <item class="com.bitdefender.security/com.bitdefender.security.material.DashboardActivity" name="bitdefender" />
+    <item class="com.bittorrent.client.pro/com.bittorrent.client.EntryActivity" name="bittorrent" />
+    <item class="com.bittorrent.client.pro/com.bittorrent.client.Main" name="bittorrent" />
+    <item class="com.bittorrent.client/com.bittorrent.client.EntryActivity" name="bittorrent" />
+    <item class="com.bittorrent.client/com.bittorrent.client.Main" name="bittorrent" />
+    <item class="com.x8bit.bitwarden.MainActivity" name="bitwarden"/>
+    <item class="com.blackberry.passwordkeeper/com.blackberry.passwordkeeper.MainActivity" name="blackberry_password_keeper" />
+    <item class="com.mediatek.bluetooth/com.mediatek.bluetooth.hid.BluetoothHidActivity" name="bluetooth" />
+    <item class="com.mediatek.bluetooth/com.mediatek.bluetooth.prx.monitor.PrxmDeviceMgmtActivity" name="bluetooth" />
+    <item class="bbc.iplayer.android/bbc.iplayer.android.MainActivity" name="bbc_iplayer" />
+    <item class="bbc.iplayer.android/bbc.iplayer.android.TvActivity" name="bbc_iplayer" />
+    <item class="bbc.iplayer.android/uk.co.bbc.iplayer.config.ui.ConfigLoadingActivity" name="bbc_iplayer" />
+    <item class="bbc.iplayer.android/uk.co.bbc.iplayer.home.HomeActivity" name="bbc_iplayer" />
+    <item class="com.instagram.boomerang/com.instagram.boomerang.BoomerangActivity" name="instagram_boomerang" />
+    <item class="net.booksy.customer.SplashActivity" name="booksy"/>
+    <item class="com.bose.monet.activity.discovery.SplashSearchingActivity" name="bose_connect"/>
+    <item class="com.box.android/com.box.android.activities.Authentication" name="box" />
+    <item class="com.box.android/com.box.android.activities.SplashScreenActivity" name="box" />
+    <item class="com.box.android/com.box.android.activities.login.SplashScreenActivity" name="box" />
+    <item class="com.box.android/com.box.android.activity.ViewLaunchPage" name="box" />
+    <item class="com.brave.browser/com.google.android.apps.chrome.Main" name="brave_browser" />
+    <item class="com.android.browser/com.android.browser.BrowserActivityWithLauncher" name="browser" />
+    <item class="com.android.browser/com.android.browser.GNBrowserActivity" name="browser" />
+    <item class="com.android.browser/com.android.browser.ShowBookmarkActivity" name="browser" />
+    <item class="com.android.browser/com.android.browser.UtokActivity" name="browser" />
+    <item class="com.android.browser/com.google.zxing.client.android.CaptureActivity" name="browser" />
+    <item class="com.android.browser/com.opera.android.OupengStartActivity" name="browser" />
+    <item class="com.android.browser/com.oppo.browser.downloads.ui.DownloadListUI" name="browser" />
+    <item class="com.accenture.btsport.login.SplashActivity" name="bt_sport" />
+    <item class="net.androgames.level.LevelActivity" name="bubble"/>
+    <item class="org.yoki.android.buienalarm.activity.LaunchActivity" name="buienalarm"/>
+    <item class="com.bukalapak.android.HomeActivity_" name="bukalapak"/>
+    <item class="de.burgerking.kingfinder/de.burgerking.kingfinder.Activity_Main" name="burger_king" />
+    <item class="de.burgerking.kingfinder/de.burgerking.kingfinder.IntroActivity" name="burger_king" />
+    <item class="de.burgerking.kingfinder/de.xroot.burgerking.activity.SplashScreenActivity" name="burger_king" />
+    <item class="com.buzzfeed.android/com.buzzfeed.android.activity.Main" name="buzzfeed" />
+    <item class="com.buzzfeed.android/com.buzzfeed.android.activity.RolloutActivity" name="buzzfeed" />
+    <item class="moe.zhs.caffeine.MainActivity" name="caffeine"/>
+    <item class="com.android.calculator2/com.android.calculator2.AdvancedCalulator" name="calculator" />
+    <item class="com.android.calculator2/com.android.calculator2.AsxCalculator" name="calculator" />
+    <item class="com.android.calculator2/com.android.calculator2.Calculator-Dark" name="calculator" />
+    <item class="com.android.calculator2/com.android.calculator2.Calculator-Light" name="calculator" />
+    <item class="com.android.calculator2/com.android.calculator2.CalculatorActivity" name="calculator" />
+    <item class="com.android.calendar/com.android.calendar.MonthActivity" name="calendar" />
+    <item class="com.dzano.calendar/com.dzano.calendar.TabsActivity" name="calendar" />
+    <item class="com.android.calendar/com.android.calendar.activity.CalendarActivity" name="calendar" />
+    <item class="com.android.calendar/com.android.calendar.CalendarTabActivity" name="calendar" />
+    <item class="com.android.calendar/com.android.calendar.JumpActivity" name="calendar" />
+    <item class="com.android.calendar/com.android.calendar.LaunchActivityNew" name="calendar" />
+    <item class="com.android.calendar/com.android.calendar.LaunchActivity" name="calendar" />
+    <item class="com.android.calendar/com.android.calendar.AgendaActivity" name="calendar" />
+    <item class="com.codesector.calendar/com.codesector.calendar.CalendarActivity" name="calendar" />
+    <item class="com.ehzstudios.calendars6edgefree/com.ehzstudios.calendars6edgefree.MainActivity" name="calendar" />
+    <item class="com.htc.calendar/com.htc.calendar.CalendarActivityMain" name="calendar" />
+    <item class="com.htc.calendar/com.htc.calendar.CalendarCarouselActivity" name="calendar" />
+    <item class="com.htc.calendar/com.htc.calendar.LaunchActivity" name="calendar" />
+    <item class="com.kfactormedia.mycalendarmobile/com.kfactormedia.mycalendarmobile.MyCalendarActivity" name="calendar" />
+    <item class="com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthActivityNew" name="calendar" />
+    <item class="com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthUI" name="calendar" />
+    <item class="com.lenovo.calculator/com.lenovo.calculator.Calculator" name="calculator" />
+    <item class="com.lenovo.calendar/com.lenovo.calendar.AllInOneActivity" name="calendar" />
+    <item class="com.lenovo.calendar/com.lenovo.calendar.LauncherActivity" name="calendar" />
+    <item class="com.lenovo.calendar/com.lenovo.calendar.SplashActivity" name="calendar" />
+    <item class="com.lgl.calendar/com.lgl.calendar.activity.LaunchActivity" name="calendar" />
+    <item class="com.lgl.calendar/com.lgl.calendar.activity.TabManagerActivity" name="calendar" />
+    <item class="com.motorola.calendar/com.android.calendar.AllInOneActivity" name="calendar" />
+    <item class="com.motorola.calendar/com.motorola.calendar.LaunchActivity" name="calendar" />
+    <item class="com.sec.android.app.latin.launcher.calendar/com.sec.android.app.latin.launcher.calendar.Launcher" name="calendar" />
+    <item class="com.sonyericsson.calendar/com.sonyericsson.calendar.monthview.MonthViewActivity" name="calendar" />
+    <item class="com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity" name="calendar" />
+    <item class="forgepond.com.enterproid.divide.pim/com.enterproid.app.calendar_zeroFPAlias" name="calendar" />
+    <item class="com.simplemobiletools.calendar.pro.activities.SplashActivity.Primary" name="calendar_android"/>
+    <item class="com.zte.camera/com.zte.camera.CameraActivity" name="camera" />
+    <item class="org.teameos.apps.cameralauncher/org.teameos.apps.cameralauncher.CameraLauncherActivity" name="camera" />
+    <item class="com.sec.android.app.camera.Camera" name="camera"/>
+    <item class="com.tct.camera/com.android.camera.CameraLauncher" name="camera" />
+    <item class="com.android.camera.CameraLauncher" name="camera_android"/>
+    <item class="com.oneplus.camera.OPCameraActivity" name="camera_one_plus"/>
+    <item class="com.GoogleCamera.Wichaya/com.android.camera.CameraLauncher" name="camera_one_plus"/>
+    <item class="com.king.candycrushsaga.CandyCrushSagaActivity" name="candy_crush" />
+    <item class="com.konylabs.capitalone/com.konylabs.capitalone.EnterpriseMobileBanking.LaunchActivity" name="capital_one" />
+    <item class="com.ie.capitalone.uk/com.ie.capitalone.uk.activities.ApplicationLoadViewActivity" name="capital_one" />
+    <item class="com.ie.capitalone.uk/com.ie.netfinance.client.activities.ApplicationLoadView" name="capital_one" />
+    <item class="com.konylabs.capitalone/com.konylabs.capitalone.EnterpriseMobileBanking.LaunchActivity" name="capital_one" />
+    <item class="com.konylabs.capitalone/com.konylabs.capitalone.EnterpriseMobileBanking" name="capital_one" />
+    <item class="com.konylabs.capitalone/com.konylabs.capitalone.capitalone" name="capital_one" />
+    <item class="com.carmax.carmax/com.carmax.carmax.HomeActivity" name="carmax" />
+    <item class="com.cashkarma.app.ui.bootup.BootUpActivity" name="cashkarma"/>
+    <item class="com.cbs.app.screens.startup.SplashActivity" name="cbs"/>
+    <item class="com.handmark.sportcaster/com.handmark.sportcaster.Main" name="cbs_sports" />
+    <item class="com.handmark.sportcaster/com.handmark.sportcaster.Navigator" name="cbs_sports" />
+    <item class="com.android.cellbroadcastreceiver.CellBroadcastListActivity" name="cell_broadcast" />
+    <item class="com.android.cellbroadcastreceiver/com.android.cellbroadcastreceiver.CellBroadcastListActivity" name="cell_broadcast" />
+    <item class="com.android.cellbroadcastreceiver.CellBroadcastListActivity" name="cell_broadcast" />
+    <item class="com.chase.sig.android/com.chase.sig.android.activity.HomeActivity" name="chase" />
+    <item class="com.chase.sig.android.activity.SplashActivity" name="chase"/>
+    <item class="de.check24.check24.activities.Check24Activity" name="check24"/>
+    <item class="com.google.android.apps.chrome.Main" name="chrome" />
+    <item class="com.google.android.apps.chromecast.app.DiscoveryActivity" name="chromecast" />
+    <item class="com.google.android.apps.chrome.Main" name="chrome_beta" />
+    <item class="com.google.android.apps.chrome.Main" name="chrome_dev" />
+    <item class="org.citra.citra_emu.ui.main.MainActivity" name="citra"/>
+    <item class="com.citymobil.ui.SplashActivity" name="city_mobil"/>
+    <item class="com.android.alarmclock/com.android.alarmclock.AlarmClock" name="clock" />
+    <item class="com.android.alarmclock/com.android.deskclock.AlarmClock" name="clock" />
+    <item class="com.android.alarmclock/com.meizu.flyme.alarmclock.AlarmClock" name="clock" />
+    <item class="com.android.deskclock/com.agold.deskclocks.AgoldFragmentTabs" name="clock" />
+    <item class="com.android.deskclock/com.android.DeskClock.ClockActivity" name="clock" />
+    <item class="com.android.deskclock/com.android.clock.Clock" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.AlarmClock" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.AlarmsMainActivity" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.ClockPackage" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.DeskClockActivity" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.DeskClockGroupActivity" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.DeskClockMainActivity" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.DeskClockTabActivity" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.DeskClockUtils" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.DeskClock" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.InitTab" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.MainActivity" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.Main" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.MultiClockTab" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.SlidingAlarmClock" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.StopWatchActivity" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.TabDetails" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.TimesTabActivity" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.WorldClockActivity" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.countdown" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.newtime.NewTimeActivity" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.stopwatch" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.worldclock" name="clock" />
+    <item class="com.android.deskclock/com.android.main.TabsActivity" name="clock" />
+    <item class="com.android.deskclock/com.android.worldclock.TYClock" name="clock" />
+    <item class="com.android.deskclock/com.hisense.timetools.TimeToolsMainActivity" name="clock" />
+    <item class="com.android.deskclock/com.jrdcom.timetool.TimeToolActivity" name="clock" />
+    <item class="com.android.deskclock/com.klinker.deskclock.DeskClock" name="clock" />
+    <item class="com.android.deskclock/com.maxlogix.clock.DeskClock" name="clock" />
+    <item class="com.android.deskclock/com.pantech.app.clock.ClockLauncher" name="clock" />
+    <item class="com.android.deskclock/yulong.xtime.ui.main.XTimeActivity" name="clock" />
+    <item class="com.cyngn.theme.chooser/com.cyngn.theme.chooser.ChooserActivity" name="cm_themechooser" />
+    <item class="com.cyngn.theme.chooser/com.cyngn.theme.chooser.ChooserLauncher" name="cm_themechooser" />
+    <item class="com.cnn.m/com.cnn.m.CNNcom" name="cnn" />
+    <item class="com.cnn.mobile.android.phone/com.cnn.mobile.android.phone.HeadlineActivity" name="cnn" />
+    <item class="com.cnn.mobile.android.phone/com.cnn.mobile.android.phone.ui.SplashActivity" name="cnn" />
+    <item class="com.cnn.mobile.android.tablet/com.cnn.mobile.android.tablet.ui.HomeActivity" name="cnn" />
+    <item class="com.cnnturk/com.cnnturk.CNNTurk" name="cnn" />
+    <item class="com.socialnmobile.dictapps.notepad.color.note/com.socialnmobile.colornote.activity.Main" name="colornote" />
+    <item class="com.socialnmobile.dictapps.notepad.color.note/com.socialnmobile.colornote.activity.NoteList" name="colornote" />
+    <item class="com.socialnmobile.colornote.activity.Main" name="colornote"/>
+    <item class="de.comdirect.core.module.splash.SplashActivity" name="comdirect"/>
+    <item class="com.comelit.bigapp/com.comelit.bigapp.SplashActivity" drawable="comelit" />
+    <item class="com.huawei.compass/com.huawei.compass.MainActivity" name="compass" />
+    <item class="com.comelit.bigapp/com.comelit.bigapp.SplashActivity}" drawable="comelit" />
+    <item class="com.apksoftware.compass/com.apksoftware.compass.Compass" name="compass" />
+    <item class="com.chartcross.fieldcompass/com.chartcross.fieldcompass.FieldCompassActivity" name="compass" />
+    <item class="com.chartcross.fieldcompassplus/com.chartcross.fieldcompassplus.FieldCompassPlusActivity" name="compass" />
+    <item class="com.compasspro/com.compasspro.CompassActivity" name="compass" />
+    <item class="com.devuni.compass/com.devuni.compass.MainActivity" name="compass" />
+    <item class="com.devuni.compass/com.devuni.compass.Main" name="compass" />
+    <item class="com.lanteanstudio.compass/com.lanteanstudio.compass.CompassActivity" name="compass" />
+    <item class="com.lenovo.compass/com.lenovo.compass.CompassActivity" name="compass" />
+    <item class="com.lenovo.compass/com.lenovo.compass.MainActivity" name="compass" />
+    <item class="com.miki.compass/com.miki.compass.CompassActivity" name="compass" />
+    <item class="com.oppo.compass/com.oppo.compass.flat.FlatCompass" name="compass" />
+    <item class="com.pantech.GPSlogger/com.pantech.GPSlogger.Logger" name="compass" />
+    <item class="jlzn.com.android.compass/jlzn.com.android.compass.JLZN_CompassActivity" name="compass" />
+    <item class="kr.aboy.compass/kr.aboy.compass.LicenseCheck" name="compass" />
+    <item class="kr.aboy.compass/kr.aboy.compass.MsgCheck" name="compass" />
+    <item class="kr.sira.compass/kr.sira.compass.MsgCheck" name="compass" />
+    <item class="kr.sira.compass/kr.sira.compass.SmartCompass" name="compass" />
+    <item class="pl.surix.holo.compass/pl.surix.holo.compass.HoloCompass" name="compass" />
+    <item class="com.huawei.compass/com.huawei.compass.MainActivity" name="compass" />
+    <item class="com.appsogreat.connect.ActivityFwkHome" name="connect"/>
+    <item class="com.appsogreat.connect.casual.release/com.appsogreat.connect.ActivityFwkHome" name="connect"/>
+    <item class="com.microsoft.cortana/com.microsoft.bing.dss.SplashActivity" name="cortana" />
+    <item class="com.unity3d.player.UnityPlayerActivity" name="cover_fire"/>
+    <item class="com.cpuid.cpu_z.MainActivity" name="cpuz"/>
+    <item class="com.crunchyroll.crunchyroid/com.ellation.crunchyroll.presentation.startup.StartupActivity" name="crunchyroll"/>
+    <item class="com.eterno/com.newshunt.app.activities.Splash" name="dailyhunt" />
+    <item class="com.dailymail.online/com.dailymail.online.modules.splash.SplashActivity" name="dailymail" />
+    <item class="com.dailymotion.dailymotion/com.dailymotion.dailymotion.mobile.activity.InterstitialActivity" name="dailymotion" />
+    <item class="com.dashlane/com.dashlane.ui.activities.SplashScreen" name="dashlane" />
+    <item class="deezer.android.app/com.deezer.android.ui.activity.LauncherActivity" name="deezer" />
+    <item class="deezer.android.app/dz.ApplicationScreens" name="deezer" />
+    <item class="de.orrs.deliveries.LaunchActivity" name="deliveries"/>
+    <item class="nl.rijksoverheid.digid.pub/crc648bce9322c5bd67f6.MainActivity" name="digi___d"/>
+    <item class="de.orrs.deliveries/de.orrs.deliveries.LaunchActivity" name="deliveries" />
+    <item class="de.deutschlandcard.app.ui.LaunchActivity" name="deutschlandcard"/>
+    <item class="ComponentInfo{de.deutschlandcard.app/de.deutschlandcard.app.ui.LaunchActivity" name="deutschlandcard"/>
+    <item class="com.android.developeroption.developeroption.MainActivity" name="developer_options"/>
+    <item class="com.deviantart.android.damobile/com.deviantart.android.damobile.activity.HomeActivity" name="deviantart" />
+    <item class="com.evozi.deviceid.MainActivity" name="device_id"/>
+    <item class="com.evozi.deviceid/com.evozi.deviceid.MainActivity" name="device_id"/>
+    <item class="com.metro.simlock/com.metro.simlock.WelcomeActivity" name="device_unlock" />
+    <item class="com.tmobile.simlock/com.tmobile.simlock.WelcomeActivity" name="device_unlock" />
+    <item class="com.oneplus.healthcheck.MainActivity" name="diagnostic_one_plus"/>
+    <item class="com.merriamwebster/com.merriamwebster.activity.HomeScreen" name="dictionary" />
+    <item class="com.merriamwebster/com.merriamwebster.activity.StartActivity" name="dictionary" />
+    <item class="com.merriamwebster/com.merriamwebster.dictionary.activity.dictionary.DictionaryActivity" name="dictionary" />
+    <item class="com.diggreader/com.digg.activities.MainActivity" name="digg" />
+    <item class="com.directv.dvrscheduler/com.directv.dvrscheduler.activity.core.Setup" name="directv" />
+    <item class="com.discord.app.AppActivity$Main" name="discord_new"/>
+    <item class="com.sm.SlingGuide.Dish.MainActivity" name="dish_anywhere"/>
+    <item class="com.disney.datg.videoplatforms.android.watchdc/com.android.disney.view.SplashScreen" name="disney_channel" />
+    <item class="com.bamtechmedia.dominguez.main.MainActivity" name="disney_plus"/>
+    <item class="com.dolby.daxappui.MainActivity" name="dolby_atmos"/>
+    <item class="com.atmos.daxappUI/com.atmos.daxappUI.MainActivity" name="dolby_atmos" />
+    <item class="com.sec.android.app.latin.launcher.download/com.sec.android.app.latin.launcher.download.Launcher" name="downloads" />
+    <item class="it.opbyte.superdownload/it.opbyte.superdownload.MainActivity" name="downloads" />
+    <item class="com.android.providers.downloads.ui.DownloadList" name="downloads" />
+    <item class="com.android.providers.downloads.ui.DownloadsListTab" name="downloads" />
+    <item class="com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList" name="downloads" />
+    <item class="com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadPagerActivity" name="downloads" />
+    <item class="com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadTabActivity" name="downloads" />
+    <item class="com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadsListTab" name="downloads" />
+    <item class="com.android.providers.downloads.ui/com.android.providers.downloads.ui.GnDownloadTabActivity" name="downloads" />
+    <item class="com.drippler.android.updates/com.drippler.android.updates.PreSplash" name="drippler" />
+    <item class="com.drippler.android.updates/com.drippler.android.updates.SplashActivity" name="drippler" />
+    <item class="com.genwi.gdroid2updater/com.genwi.gdroid2updater.splash" name="drippler" />
+    <item class="com.genwi.gdroidxupdater/com.genwi.gdroidxupdater.splash" name="drippler" />
+    <item class="com.genwi.gsamsungepicupdater/com.genwi.gsamsungepicupdater.splash" name="drippler" />
+    <item class="drippler.asus.eee.pad.transformer.prime/drippler.asus.eee.pad.transformer.prime.splash" name="drippler" />
+    <item class="drippler.google.nexus7/com.drippler.android.updates.SplashActivity" name="drippler" />
+    <item class="drippler.google.nexus7/drippler.google.nexus7.splash" name="drippler" />
+    <item class="drippler.htc.desire.hd/drippler.htc.desire.hd.splash" name="drippler" />
+    <item class="drippler.htc.evo3d/drippler.htc.evo3d.splash" name="drippler" />
+    <item class="drippler.htc.sensation4g/drippler.htc.sensation4g.splash" name="drippler" />
+    <item class="drippler.huawei.impulse4g/drippler.huawei.impulse4g.splash" name="drippler" />
+    <item class="drippler.motorola.atrix4g/drippler.motorola.atrix4g.splash" name="drippler" />
+    <item class="drippler.motorola.xoom/drippler.motorola.xoom.splash" name="drippler" />
+    <item class="drippler.samsung.galaxy.note/com.drippler.android.updates.SplashActivity" name="drippler" />
+    <item class="drippler.samsung.galaxy.note/drippler.samsung.galaxy.note.splash" name="drippler" />
+    <item class="drippler.samsung.galaxy.note101/com.drippler.android.updates.SplashActivity" name="drippler" />
+    <item class="drippler.samsung.galaxy.note101/drippler.samsung.galaxy.note101.splash" name="drippler" />
+    <item class="drippler.samsung.galaxy.noteii/com.drippler.android.updates.SplashActivity" name="drippler" />
+    <item class="drippler.samsung.galaxy.noteii/drippler.samsung.galaxy.noteii.splash" name="drippler" />
+    <item class="drippler.samsung.galaxy.player/drippler.samsung.galaxy.player.splash" name="drippler" />
+    <item class="drippler.samsung.galaxy.sii/drippler.samsung.galaxy.sii.splash" name="drippler" />
+    <item class="drippler.samsung.galaxy.siii/com.drippler.android.updates.SplashActivity" name="drippler" />
+    <item class="drippler.samsung.galaxy.siii/drippler.samsung.galaxy.siii.splash" name="drippler" />
+    <item class="drippler.samsung.galaxy.tab/drippler.samsung.galaxy.tab.splash" name="drippler" />
+    <item class="drippler.samsung.galaxy.tab101/com.drippler.android.updates.SplashActivity" name="drippler" />
+    <item class="drippler.samsung.galaxy.tab101/drippler.samsung.galaxy.tab101.splash" name="drippler" />
+    <item class="com.drippler.android.updates/com.drippler.android.updates.PreSplash" name="drippler" />
+    <item class="com.drippler.android.updates/com.drippler.android.updates.SplashActivity" name="drippler" />
+    <item class="com.dropbox.android.activity.DropboxBrowser" name="dropbox" />
+    <item class="com.dropbox.android/com.dropbox.android.FileBrowser" name="dropbox" />
+    <item class="com.dropbox.android/com.dropbox.android.activity.DropboxBrowser" name="dropbox" />
+    <item class="com.dropbox.paper/com.dropbox.paper.app.view.LauncherActivity" name="dropbox_paper" />
+    <item class="com.synology.DSfile.Splash" name="ds_file"/>
+    <item class="com.synology.dsphoto.SplashActivity" name="ds_photo"/>
+    <item class="com.synology.dsvideo.SplashActivity" name="ds_video"/>
+    <item class="com.synology.DSaudio/com.synology.dsaudio.ui.splash.SplashActivity" name="ds_audio"/>
+    <item class="com.synology.assistant.ui.activity.SplashActivity" name="ds_finder"/>
+    <item class="com.synology.DSdownload.activities.SplashActivity" name="ds_get"/>
+    <item class="com.synology.dsvideo.SplashActivity" name="ds_video"/>
+    <item class="com.cardfree.android.dunkindonuts.activities.SplashActivity" name="dunkin"/>
+    <item class="com.duolingo/com.duolingo.app.LoginActivity" name="duolingo" />
+    <item class="com.ebay.mobile/com.ebay.mobile.activities.eBay" name="ebay" />
+    <item class="com.ebay.mobile/com.ebay.mobile.activities.MainActivity" name="ebay" />
+    <item class="com.ebay.mobile.activities.MainActivity" name="ebay1"/>
+    <item class="crc6471c325fb377b64dc.MainActivity" name="ego_power_plus"/>
+    <item class="com.android.email/com.android.email.activity.EmailActivity" name="email" />
+    <item class="com.android.email/com.android.email.activity.EmailAppSelect" name="email" />
+    <item class="com.android.email/com.android.email.activity.IphoneWelcome" name="email" />
+    <item class="com.android.email/com.android.email.activity.Welcome" name="email" />
+    <item class="com.htc.sense.mms/com.htc.sense.mms.ui.CmasListActivityShortCut" name="emergency_alerts" />
+    <item class="com.handycloset.android.eraser/com.handycloset.android.eraser.MainActivity" name="eraser" />
+    <item class="air.WatchESPN/air.WatchESPN.MainApp" name="espn" />
+    <item class="air.WatchESPN/com.espn.watchespn.main.Main" name="espn" />
+    <item class="com.espn.score_center/com.espn.score_center.HomePage" name="espn" />
+    <item class="com.espn.score_center/com.espn.score_center.ui.StartupActivity" name="espn" />
+    <item class="com.espn.score_center/com.espn.sportscenter.ui.LaunchActivity" name="espn" />
+    <item class="com.espn.sportscenter.ui.EspnLaunchActivity" name="espn"/>
+    <item class="com.estrongs.android.pop.cupcake/com.estrongs.android.pop.cupcake.view.FileExplorerActivity" name="es_file_explorer" />
+    <item class="com.estrongs.android.pop.pro/com.estrongs.android.pop.view.FileExplorerActivity" name="es_file_explorer_pro" />
+    <item class="com.estrongs.android.pop.tmp/com.estrongs.android.pop.app.FileExplorerActivity" name="es_file_explorer" />
+    <item class="com.estrongs.android.pop/com.estrongs.android.pop.resmanager.view.FileExplorerActivity" name="es_file_explorer" />
+    <item class="com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity" name="es_file_explorer" />
+    <item class="com.estrongs.android.pop/com.estrongs.android.pop.app.openscreenad.SplashActivity" name="es_file_explorer" />
+    <item class="com.estrongs.android.pop/com.estrongs.android.pop.app.openscreenad.NewSplashActivity" name="es_file_explorer" />
+    <item class="com.estrongs.android.pop.view.FileExplorerActivity" name="es_file_explorer" />
+    <item class="com.etsy.android/com.etsy.android.HomeActivity" name="etsy" />
+    <item class="com.etsy.android/com.etsy.android.ui.HomeActivity" name="etsy" />
+    <item class="com.evernote.world/com.evernote.ui.HomeActivity" name="evernote" />
+    <item class="com.evernote/com.evernote.LauncherActivity" name="evernote" />
+    <item class="com.evernote/com.evernote.ui.HomeActivity" name="evernote" />
+    <item class="com.evernote/com.evernote.ui.LaunchActivity" name="evernote" />
+    <item class="com.evernote/com.evernote.ui.MainActivity" name="evernote" />
+    <item class="com.evernote/com.evernote.ui.MainView" name="evernote" />
+    <item class="com.evernote.ui.HomeActivity" name="evernote" />
+    <item class="com.amazon.kindle.facebook/com.amazon.kindle.facebook.FacebookWebappActivity" name="facebook" />
+    <item class="com.technocom50.fastener.SplashScreen" name="fasteners_lite"/>
+    <item class="org.fdroid.fdroid/org.fdroid.fdroid.FDroid" name="fdroid" />
+    <item class="org.fdroid.fdroid/org.fdroid.fdroid.views.LocalRepoActivity" name="fdroid" />
+    <item class="com.fedex.ida.android.views.core.FedExHOME" name="fedex"/>
+    <item class="com.devhd.feedly/com.devhd.feedly.Main" name="feedly" />
+    <item class="me.aap.fermata.ui.activity.MainActivity" name="fermata_auto"/>
+    <item class="com.android.documentsui.LauncherActivity" name="files_one_plus"/>
+    <item class="com.google.android.documentsui/com.android.documentsui.LauncherActivity" name="files_one_plus"/>
+    <item class="com.oneplus.filemanager.HomePageActivity" name="file_manager_one_plus"/>
+    <item class="org.mozilla.firefox/org.mozilla.firefox.App" name="firefox" />
+    <item class="org.mozilla.firefox.App" name="firefox" />
+    <item class="com.fitbit.FirstActivity" name="fitbit"/>
+    <item class="com.fitbit.FitbitMobile/com.fitbit.FirstActivity" name="fitbit" />
+    <item class="com.fitbit.FitbitMobile/com.fitbit.onboarding.landing.LandingActivity_" name="fitbit" />
+    <item class="com.fitbit.FitbitMobile/com.fitbit.onboarding.landing.LandingActivity" name="fitbit" />
+    <item class="com.fitbit.FitbitMobile/com.fitbit.profile.ui.StartupScreen" name="fitbit" />
+    <item class="softin.my.fast.fitness.PreloadingFotoApp" name="fitness_bodybuilding"/>
+    <item class="com.vladlee.flashlight/com.vladlee.flashlight.FlashlightActivity" name="flashlight" />
+    <item class="com.android.systemui/com.android.systemui.flashlight.FlashlightActivity" name="flashlight" />
+    <item class="ch.smalltech.ledflashlight.free/ch.smalltech.ledflashlight.free.HomeFree" name="flashlight" />
+    <item class="ch.smalltech.ledflashlight.pro/ch.smalltech.ledflashlight.core.Home" name="flashlight" />
+    <item class="ch.smalltech.ledflashlight.pro/ch.smalltech.ledflashlight.pro.HomePro" name="flashlight" />
+    <item class="com.advback.ledflashlight/com.advback.ledflashlight.FlashLight" name="flashlight" />|
+    <item class="com.devuni.flashlight/com.devuni.flashlight.MainActivity" name="flashlight" />
+    <item class="com.dianxinos.flashlight.duplay/com.dianxinos.flashlight.FlashLightActivity" name="flashlight" />
+    <item class="com.gau.go.launcherex.gowidget.flashlight/com.gau.go.launcherex.gowidget.flashlight.MainActivity" name="flashlight" />
+    <item class="com.htc.flashlight/com.htc.flashlight.FlashlightActivity" name="flashlight" />
+    <item class="com.htc.flashlight/com.htc.flashlight.ScreenFlashlightActivity" name="flashlight" />
+    <item class="com.huawei.flashlight/com.huawei.flashlight.FlashlightActivity" name="flashlight" />
+    <item class="com.intellectualflame.ledflashlight.washer/com.intellectualflame.ledflashlight.washer.FlashlightActivity" name="flashlight" />
+    <item class="com.lenovo.lenovohdllight/com.lenovo.lenovohdllight.LenovoHdlLight" name="flashlight" />
+    <item class="com.lewa.flashlight/com.lewa.flashlight.FlashlightActivity" name="flashlight" />
+    <item class="com.lewa.flashlight/com.lewa.flashlight.LewaMainActivity" name="flashlight" />
+    <item class="com.motorola.dlight/com.motorola.dlight.DroidLight" name="flashlight" />
+    <item class="com.oppo.flashlight/com.oppo.flashlight.FlashLightActivity" name="flashlight" />
+    <item class="com.paranoid.lightbulb/com.paranoid.lightbulb.MainActivity" name="flashlight" />
+    <item class="com.surpax.ledflashlight.panel/com.surpax.ledflashlight.FlashlightActivity" name="flashlight" />
+    <item class="com.surpax.ledflashlight.panel/com.surpax.ledflashlight.panel.mobi.vserv.android.appwrapper.VservAdManager" name="flashlight" />
+    <item class="com.teslacoilsw.flashlight/com.teslacoilsw.flashlight.Flashlight" name="flashlight" />
+    <item class="com.teslacoilsw.flashlight/com.teslacoilsw.flashlight.TeslaLED" name="flashlight" />
+    <item class="com.teslacoilsw.flashlightDonate/com.teslacoilsw.flashlight.TeslaLED" name="flashlight" />
+    <item class="com.teslacoilsw.flashlightDonate/com.teslacoilsw.flashlightDonate.Flashlight" name="flashlight" />
+    <item class="com.wingtech.flashlight/com.wingtech.flashlight.FlashLight" name="flashlight" />
+    <item class="goldenshorestechnologies.brightestflashlight.free/goldenshorestechnologies.brightestflashlight.free.BrightestFlashlightMain" name="flashlight" />
+    <item class="net.cactii.flash2/net.cactii.flash2.MainActivity" name="flashlight" />
+    <item class="com.intellectualflame.ledflashlight.washer.FlashlightActivity" name="flashlight" />
+    <item class="com.vladlee.flashlight/com.vladlee.flashlight.FlashlightActivity" name="flashlight" />
+    <item class="com.yahoo.mobile.client.android.flickr/com.yahoo.mobile.client.android.flickr.ui.misc.LoginActivity" name="flickr" />
+    <item class="com.flightradar24free.SplashActivity" name="flightradar24"/>
+    <item class="flipboard.app/flipboard.activities.LaunchActivityAlias" name="flipboard" />
+    <item class="flipboard.app/flipboard.activities.LaunchActivity" name="flipboard" />
+    <item class="flipboard.app/flipboard.activities.TOCActivity" name="flipboard" />
+    <item class="net.flixster.android/com.flixster.android.bootstrap.BootstrapActivity" name="flixster" />
+    <item class="net.flixster.android/net.flixster.android.Flixster" name="flixster" />
+    <item class="net.flixster.android/net.flixster.android.LauncherActivity" name="flixster" />
+    <item class="net.flixster.android/net.flixster.android.MainActivity" name="flixster" />
+    <item class="com.delphicoder.flud.MainActivity" name="flud" />
+    <item class="com.caf.fmradio.FMRadio" name="fm_radio_android"/>
+    <item class="com.miui.fmradio.FMRadioMain" name="miui_fm_radio" />
+    <item class="com.miui.fm/com.miui.fmradio.FmActivity" name="miui_fm_radio" />
+    <item class="dk.tacit.android.foldersync.full/dk.tacit.android.foldersync.SplashActivity" name="foldersync" />
+    <item class="com.foursquare.android.tablet/com.foursquare.android.tablet.MainActivity" name="foursquare" />
+    <item class="com.foxnews.android/com.foxnews.android.MainActivity" name="fox_news" />
+    <item class="com.foxnews.android/com.foxnews.android.corenav.StartActivity" name="fox_news" />
+    <item class="com.foxnews.android.corenav.StartActivity" name="fox_news"/>
+    <item class="nl.eredivisie.features.splash.SplashActivity" name="fox_sports_nl"/>
+    <item class="com.pitchedapps.frost.StartActivity" name="frost"/>
+    <item class="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange" name="gallery_one_plus"/>
+    <item class="com.alensw.PicFolder.GalleryActivity" name="gallery_one_plus"/>
+    <item class="com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange" name="gallery_one_plus"/>
+    <item class="com.oneplus.gamespace.ui.main.MainActivity" name="game_space_one_plus"/>
+    <item class="ComponentInfo{com.vivo.game/com.vivo.game.gamecenter.ui.LogoActivity" name="game_space_one_plus"/>
+    <item class="com.gasbuddy.mobile.init.ui.InitActivity" name="gasbuddy"/>
+    <item class="com.goodreads/com.goodreads.android.activity.MainActivity" name="goodreads" />
+    <item class="com.google.android.apps.enterprise.cpanel/com.google.android.apps.enterprise.cpanel.activities.EntryPointActivity" name="google_admin" />
+    <item class="com.google.android.apps.enterprise.cpanel/com.google.android.apps.enterprise.cpanel.activities.HomeActivity" name="google_admin" />
+    <item class="com.google.android.apps.ads.publisher/com.google.android.apps.ads.publisher.activity.BaseActivity" name="google_adsense" />
+    <item class="com.google.android.apps.adwords/com.google.android.apps.adwords.InitialLoadingActivity" name="google_adwords" />
+    <item class="com.google.android.apps.giant/com.google.android.apps.giant.activity.AnalyticsHome" name="google_analytics" />
+    <item class="com.google.android.apps.giant/com.google.android.apps.giant.activity.AnalyticsLaunchActivity" name="google_analytics" />
+    <item class="com.google.android.apps.giant/com.google.android.apps.giant.activity.ProfilePickerActivity" name="google_analytics" />
+    <item class="com.google.android.calendar/com.android.calendar.AllInOneActivity" name="google_calendar" />
+    <item class="com.google.android.calendar/com.android.calendar.LaunchActivity" name="google_calendar" />
+    <item class="com.android.calendar.AllInOneActivity" name="google_calendar" />
+    <item class="com.google.android.GoogleCamera/com.android.camera.CameraLauncher" name="google_camera" />
+    <item class="com.android.camera.CameraLauncher" name="google_camera" />
+    <item class="com.google.vr.cyclops/com.google.android.apps.cyclops.StartActivity" name="google_cardboard_camera" />
+    <item class="com.google.android.apps.cloudconsole/com.google.android.apps.cloudconsole.MainContainerActivity" name="google_cloud_console" />
+    <item class="com.google.enterprise.topaz.mobile.android/com.google.enterprise.topaz.mobile.android.MainActivity" name="google_cloud_search" />
+    <item class="com.google.android.apps.docs/com.google.android.apps.docs.app.HomeScreenActivity" name="google_drive" />
+    <item class="com.google.android.apps.docs/com.google.android.apps.docs.app.MainProxyActivity" name="google_drive" />
+    <item class="com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity" name="google_drive" />
+    <item class="com.google.android.apps.docs.app.NewMainProxyActivity" name="google_drive" />
+    <item class="com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity" name="google_duo" />
+    <item class="com.google.vr.expeditions/com.google.vr.expeditions.guide.startup.GuideStartupActivity" name="google_expeditions" />
+    <item class="com.google.android.apps.fitness/com.google.android.apps.fitness.welcome.WelcomeActivity" name="google_fit" />
+    <item class="com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity" name="google_gboard" />
+    <item class="com.google.android.keep/com.google.android.keep.activities.BrowseActivity" name="google_keep" />
+    <item class="com.google.android.apps.messaging.ui.ConversationListActivity" name="google_messenger" />
+    <item class="com.google.android.apps.vega/com.google.android.apps.vega.VegaMainActivity" name="google_my_business" />
+    <item class="com.google.android.apps.docs/com.google.android.apps.viewer.PdfViewerActivity" name="google_pdf_viewer" />
+    <item class="com.google.android.apps.books.app.BooksActivity" name="google_play_books" />
+    <item class="com.google.android.apps.gmoney/com.google.android.apps.wallet.entrypoint.WalletRootActivity" name="google_wallet" />
+    <item class="com.google.android.youtube/com.ghareeb.YouTube.OGDownloadManager" name="google_youtube" />
+    <item class="com.google.android.youtube/com.google.android.youtube.HomeActivity" name="google_youtube" />
+    <item class="com.google.android.youtube/com.google.android.youtube.HomePage" name="google_youtube" />
+    <item class="com.google.android.youtube/com.google.android.youtube.app.froyo.phone.HomeActivity" name="google_youtube" />
+    <item class="com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity" name="google_youtube" />
+    <item class="com.google.android.youtube/com.google.android.youtube.app.tablet.HomeActivity" name="google_youtube" />
+    <item class="com.google.android.apps.youtube.unplugged/com.google.android.apps.youtube.unplugged.activities.MainActivity" name="google_youtube_tv" />
+    <item class="com.oasisfeng.greenify.pro/com.oasisfeng.greenify.pro.PilotActivity" name="greenify" />
+    <item class="com.oasisfeng.greenify/com.oasisfeng.greenify.GreenifyActivity" name="greenify" />
+    <item class="com.walmart.grocery.screen.start.StartupActivity" name="grocery"/>
+    <item class="project.vivid.hex.bodhi/project.vivid.hex.sharedthemes.activities.ThemesShowcaseActivity" name="hex" />
+    <item class="project.vivid.hex.bodhi.activities.HexLauncherActivity" name="hex" />
+    <item class="com.ftw_and_co.happn/com.ftw_and_co.happn.ui.splash.SplashActivity" name="happn" />|
+    <item class="com.hbo.android.activity/com.hbo.android.activity.AppLoaderActivity" name="hbo" />
+    <item class="com.hbo.android.app/com.hbo.android.app.activity.MainActivity" name="hbo" />
+    <item class="com.hbo.go.LaunchActivity" name="hbo_now"/>
+    <item class="com.here.app.OneAppLauncherAlias" name="here" />
+    <item class="homeworkout.homeworkouts.noequipment.SplashActivity" name="home_workout"/>
+    <item class="com.hootsuite.droid.full/com.hootsuite.droid.SplashActivity" name="hootsuite" />
+    <item class="com.hootsuite.droid.full/com.hootsuite.droid.full.SplashActivity" name="hootsuite" />
+    <item class="in.startv.hotstar/in.startv.hotstar.activities.splash.SplashActivity" name="hotstar" />
+    <item class="com.hulu.features.splash.SplashActivity" name="hulu"/>
+    <item class="com.clearchannel.iheartradio.controller.activities.NavDrawerActivity" name="iheartradio"/>
+    <item class="com.imdb.mobile/com.imdb.mobile.HomeActivity" name="imdb" />
+    <item class="com.blizzard.wtcg.hearthstone.HearthstoneActivity" name="hearthstone"/>
+    <item class="com.indeed.android.jobsearch/com.indeed.android.jobsearch.MainActivity" name="indeed" />
+    <item class="com.instapaper.android.MainActivity" name="instapaper" />
+    <item class="com.countercultured.irc.ServerSelect" name="irc"/>
+    <item class="md5b85ab5ea2545156b0f09600c184a5178.KeePass" name="keepass2android"/>
+    <item class="com.kickstarter.kickstarter/com.kickstarter.ui.activities.DiscoveryActivity" name="kickstarter" />
+    <item class="com.google.android.apps.chrome.Main" name="kiwi_browser"/>
+    <item class="org.xbmc.kodi.Splash" name="kodi"/>
+    <item class="org.xbmc.kodi/org.xbmc.kodi.Splash" name="kodi" />
+    <item class="com.msf.kbank.mobile/com.msf.kmb.mobile.init.NewSplashScreen" name="kotak_bank" />
+    <item class="fm.last.android/fm.last.android.LastFm" name="lastfm" />
+    <item class="fm.last.android/fm.last.android.ui.activity.SplashScreen" name="lastfm" />
+    <item class="jp.naver.line.android/jp.naver.line.android.MainActivity" name="line" />
+    <item class="jp.naver.line.android/jp.naver.line.android.activity.SplashActivity" name="line" />
+    <item class="com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity" name="linkedin" />
+    <item class="com.lowes.android.controller.util.OnboardingActivity" name="lowes"/>
+    <item class="me.lyft.android/me.lyft.android.ui.MainActivity" name="lyft" />
+    <item class="me.lyft.android/me.lyft.android.ui.StarterActivity" name="lyft" />
+    <item class="a.U" name="magisk_manager"/>
+    <item class="com.topjohnwu.magisk/com.topjohnwu.magisk.SplashActivity" name="magisk_manager" />
+    <item class="com.topjohnwu.magisk/com.topjohnwu.magisk.core.SplashActivity" name="magisk_manager" />
+    <item class="a.U" name="manager"/>
+    <item class="com.pluscubed.logcat.ui.LogcatActivity" name="matlog"/>
+    <item class="com.pluscubed.matlog/com.pluscubed.logcat.ui.LogcatActivity" name="matlog" />
+    <item class="mcdonalds.core.SplashActivity.White" name="mcdonalds"/>
+    <item class="com.mcdonalds.mobileapp/mcdonalds.core.SplashActivity" name="mcdonalds"/>
+    <item class="com.mediafire.android/com.mediafire.android.MediafireActivity" name="mediafire" />
+    <item class="com.mediafire.android/com.mediafire.android.login.MediaFireActivity" name="mediafire" />
+    <item class="com.mediafire.android/com.mediafire.android.ui.authentication.AuthenticationActivity" name="mediafire" />
+    <item class="com.mediafire.android/com.mediafire.android.ui.launch.LaunchActivity" name="mediafire" />
+    <item class="mega.privacy.android.app/mega.privacy.android.app.LauncherActivity" name="mega" />
+    <item class="nz.mega.android.ManagerActivity" name="mega" />
+    <item class="com.android.mms.ui.ConversationList" name="messages_one_plus"/>
+    <item class="com.oneplus.mms/com.android.mms.ui.ConversationList" name="messages_one_plus"/>
+    <item class="com.oneplus.mms/com.android.mms.ui.ConversationList" name="messages_one_plus"/>
+    <item class="apps.syrupy.metadatacleaner.MainActivity" name="metadata_remover"/>
+    <item class="com.microsoft.msa.authenticator/com.microsoft.onlineid.authenticator.LauncherActivity" name="microsoft" />
+    <item class="com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity" name="microsoft_excel" />
+    <item class="com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity" name="microsoft_powerpoint" />
+    <item class="com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity" name="microsoft_word" />
+    <item class="com.microsoft.skydrive/com.microsoft.skydrive.MainActivity" name="microsoft_onedrive" />
+    <item class="com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity" name="microsoft_one_note" />
+    <item class="com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity" name="microsoft_outlook" />
+    <item class="com.microsoft.launcher/com.microsoft.launcher.Launcher" name="microsoft_launcher" />
+    <item class="nl.ziggo.app.ui.splash.SplashActivity" name="mijn_ziggo"/>
+    <item class="com.mixplorer.activities.BrowseActivity" name="mix"/>
+    <item class="com.mixplorer.silver/com.mixplorer.activities.BrowseActivity" name="mix"/>
+    <item class="app.bpjs.mobile.Awal" name="mobile_jkn"/>
+    <item class="com.monster.android.Views/com.monster.android.Activities.SplashActivity" name="monster" />
+    <item class="com.monsterindia.seeker.views/com.monsterindia.seeker.views.SplashScreen" name="monster" />
+    <item class="com.motorola.blur.music/com.motorola.blur.music.DashboardActivity" name="music" />
+    <item class="com.motorola.motmusic/com.motorola.motmusic.DashboardActivity" name="music" />    <item class="com.oppo.music/com.oppo.music.MainListActivity" name="music" />
+    <item class="com.oppo.music/com.oppo.music.MediaPlaybackActivity" name="music" />
+    <item class="com.oppo.music/com.oppo.music.MusicPagerViewActivity" name="music" />
+    <item class="com.pantech.app.music.globalv1/com.pantech.app.music.globalv1.library.MusicLibraryList" name="music" />
+    <item class="com.pantech.app.music.verizon/com.pantech.app.music.verizon.library.MusicLibraryList" name="music" />
+    <item class="com.pantech.app.music/com.pantech.app.music.MusicStarter" name="music" />
+    <item class="com.pantech.app.music/com.pantech.app.music.library.MusicLibraryTabHost" name="music" />
+    <item class="com.sonyericsson.music/com.sonyericsson.music.PlayerActivity" name="music" />
+    <item class="com.sprint.android.musicplus2033.vpl/com.sprint.android.musicplus.MainActivity" name="music" />
+    <item class="com.sprint.android.musicplus2033.vpl/com.sprint.android.vpl.MainActivity" name="music" />
+    <item class="com.sprint.android.musicplus2033/com.livewiremobile.cds.activities.SplashActivity" name="music" />
+    <item class="com.sprint.android.musicplus2033/com.sprint.android.musicplus.MainActivity" name="music" />
+    <item class="com.sprint.android.musicplus2033/com.sprint.android.musicplus2033.PreloaderActivity" name="music" />
+    <item class="net.lucky.star.mrtm/net.lucky.star.mrtm.HomeActivity" name="music" />
+    <item class="com.cyanogenmod.eleven.ui.activities.HomeActivity" name="music" />
+    <item class="com.android.mediacenter/com.android.mediacenter.ListBrowserActivity" name="music" />
+    <item class="com.android.mediacenter/com.android.mediacenter.PageActivity" name="music" />
+    <item class="com.android.motorola.music/com.android.motorola.music.MusicBrowserActivity" name="music" />
+    <item class="com.android.music/com.android.music.ArtistAlbumBrowserActivity" name="music" />
+    <item class="com.android.music/com.android.music.MusicBrowserActivity" name="music" />
+    <item class="com.android.music/com.android.music.MusicBrowserTabActivity" name="music" />
+    <item class="com.android.music/com.android.music.MusicMainActivity" name="music" />
+    <item class="com.android.music/com.android.music.ScrollingMusicMenu" name="music" />
+    <item class="com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ActivityMediaList" name="mx_player" />
+    <item class="com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityMediaList" name="mx_player" />
+    <item class="com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityVideoList" name="mx_player" />
+    <item class="com.mxtech.videoplayer.pro/com.mxtech.videoplayer.ActivityMediaList" name="mx_player" />
+    <item class="com.mxtech.videoplayer.pro/com.mxtech.videoplayer.ActivityVideoList" name="mx_player" />
+    <item class="com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList" name="mx_player" />
+    <item class="com.mxtech.videoplayer.ad.ActivityMediaList" name="mx_player" />
+    <item class="com.gm.gemini.SplashActivity" name="mychevrolet"/>
+    <item class="com.att.myWireless.activity.login.SplashScreenActivity" name="my_at_t"/>
+    <item class="com.mnt.mobilebanking.controllers.activities.SplashActivity" name="m_t_bank"/>
+    <item class="nl.nos.app.activity.RedirectActivity" name="nosnl"/>
+    <item class="com.nordvpn.android.MainActivity" name="nordvpn"/>
+    <item class="com.oneplus.note.ui.MainActivity" name="notes"/>
+    <item class="com.oculus.horizon/com.oculus.horizon.main.StartActivity" name="oculus" />
+    <item class="com.arjanvlek.oxygenupdater.activities.SplashActivity" name="oxygen_updater"/>
+    <item class="com.arjanvlek.oxygenupdater/com.oxygenupdater.activities.SplashActivity" name="oxygen_updater"/>
+    <item class="com.paypal.android.p2pmobile.startup.activities.StartupActivity" name="paypal"/>
+    <item class="net.one97.paytm.AJRJarvisSplash" name="paytm"/>
+    <item class="tv.periscope.android/tv.periscope.android.LaunchActivity" name="periscope" />
+    <item class="com.benchevoor.huepro/com.benchevoor.huepro.BridgeSetup" name="philips_hue" />
+    <item class="com.contapps.android.dialer/com.contapps.android.shortcut.MainActivity" name="phone" />
+    <item class=" com.oneplus.dialer/com.android.dialer.oneplus.activity.OPDialtactsActivity" name="phone" />
+    <item class="com.pinterest/com.pinterest.activity.PinterestActivity" name="pinterest" />
+    <item class="com.scee.psxandroid/com.digitaljigsaw.psxandroid.activities.SplashActivity" name="playstation" />
+    <item class="com.scee.psxandroid/com.scee.psxandroid.activity.EulaActivity" name="playstation" />
+    <item class="com.scee.psxandroid/com.scee.psxandroid.activity.TopActivity" name="playstation" />
+    <item class="com.plexapp.plex.activities.MyPlexActivity" name="plex" />
+    <item class="com.ideashower.readitlater.activity.AppCacheCheckActivity" name="pocket" />
+    <item class="au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity" name="pocket_casts" />
+    <item class="au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.TabWidget" name="pocket_casts" />
+    <item class="com.maxmpz.audioplayer.unlock/com.maxmpz.audioplayer.unlock.LauncherRedirectorActivity" name="poweramp" />
+    <item class="com.maxmpz.audioplayer/com.maxmpz.audioplayer.StartupActivity" name="poweramp" />
+    <item class="com.maxmpz.audioplayer.StartupActivity" name="poweramp" />
+    <item class="com.maxmpz.audioplayer.standard_adaptive" name="poweramp"/>
+    <item class="fr.simon.marquis.preferencesmanager.ui.AppListActivity" name="preferences_manager"/>
+    <item class="com.quora.android/com.quora.android.LauncherActivity" name="quora" />
+    <item class="org.lineageos.recorder.RecorderActivity" name="recorder_android"/>
+    <item class="com.oneplus.soundrecorder.SoundRecorder" name="recorder_one_plus"/>
+    <item class="com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder" name="recorder_one_plus"/>
+    <item class="com.reddit.frontpage.StartActivity" name="reddit"/>
+    <item class="com.roku.remote.ui.activities.SplashActivity" name="roku"/>
+    <item class="com.roku.remote/com.roku.remote.ui.WelcomeActivity" name="roku" />
+    <item class="com.ryanair.cheapflights/com.ryanair.cheapflights.ui.home.HomeActivity" name="ryanair" />
+    <item class="eu.thedarken.sdm/eu.thedarken.sdm.main.ui.SDMMainActivity" name="sd_maid" />
+    <item class="eu.thedarken.sdm.unlocker/eu.thedarken.sdm.unlocker.MainActivity" name="sd_maid_pro" />
+    <item class="com.experian.android/com.experian.activities.LandingActivity" name="experian" />
+    <item class="com.sec.android.app.latin.launcher.camera/com.sec.android.app.latin.launcher.camera.Launcher" name="samsung_camera" />
+    <item class="com.sec.android.app.clockpackage.ClockPackage" name="samsung_clock" />
+    <item class="jqsoft.apps.mysettings/jqsoft.apps.mysettings.MySettings" name="settings" />
+    <item class="net.suckga.iSettings/net.suckga.iSettings.MainActivity" name="settings" />
+    <item class="org.canvs2321.absolute.system/org.canvs2321.absolute.system.absolute_system" name="settings" />
+    <item class="com.android.development.Development" name="settings" />
+    <item class="com.android.settings.Settings" name="settings" />
+    <item class="com.android.settings.framework.activity.HtcSettings" name="settings" />
+    <item class="com.android.settings.MiuiSettings" name="settings" />
+    <item class="com.android.settings.SettingsTabActivity" name="settings" />
+    <item class="com.advancedprocessmanager/com.advancedprocessmanager.MyActivity" name="settings" />
+    <item class="com.shazam.android.activities.SplashActivity" name="shazam" />
+    <item class="com.skype.android.kddi/com.skype.android.kddi.MainActivity" name="skype" />
+    <item class="com.skype.android.kddi/com.skype.android.kddi.SkypeActivity" name="skype" />
+    <item class="com.skype.android.lite/com.skype.android.lite.SkypeActivity" name="skype" />
+    <item class="com.skype.android.verizon/com.skype.android.verizon.SkypeActivity" name="skype" />
+    <item class="com.skype.android.vodafoneAU/com.skype.android.vodafoneAU.SkypeActivity" name="skype" />
+    <item class="com.skype.merlin_mecha/com.skype.merlin_mecha.ui.SplashScreenActivity" name="skype" />
+    <item class="com.skype.raider/com.skype.raider.Main" name="skype" />
+    <item class="com.skype.raider/com.skype.raider.ui.SplashScreenActivity" name="skype" />
+    <item class="com.skype.rover/com.skype.raider.Main" name="skype" />
+    <item class="com.skype.rover/com.skype.rover.Main" name="skype" />
+    <item class="com.skype.unlocked.raider/com.skype.unlocked.raider.ui.SplashScreenActivity" name="skype" />
+    <item class="com.skype.raider.Main" name="skype" />
+    <item class="com.sec.android.app.skypehelp/com.sec.android.app.skypehelp.Main" name="skype" />
+    <item class="com.Slack.app.login.FSlackTryLogin" name="slack" />
+    <item class="com.habi.soccer/com.habi.soccer.Loader" name="soccer" />
+    <item class="com.sonos.acr/com.sonos.acr.SonosHomeScreenActivity" name="sonos" />
+    <item class="com.sonos.acr/com.sonos.acr.SonosLaunchActivity" name="sonos" />
+    <item class="com.soundcloud.android/com.soundcloud.android.activity.Launch" name="soundcloud" />
+    <item class="com.soundcloud.android/com.soundcloud.android.main.LauncherActivity" name="soundcloud" />
+    <item class="com.starfinanz.smob.android.sfinanzstatus.launcher_d2e0d35b0d2e12e29c6ccf966a5435faae9646169ae568656ab4a71cdfe6399d" name="sparkasse"/>
+    <item class="com.starfinanz.smob.android.sfinanzstatus/com.starfinanz.smob.android.sfinanzstatus.SFinanzstatus" name="sparkasse" />
+    <item class="com.starfinanz.smob.android.sfinanzstatus.LauncherActivity" name="sparkasse"/>
+    <item class="com.cmsecurity.wifisecurity/ks.cm.antivirus.main.SplashActivity" name="speedtest" />
+    <item class="org.zwanoo.android.speedtest/com.ookla.speedtest.softfacade.MainActivity" name="speedtest" />
+    <item class="org.zwanoo.android.speedtest/org.zwanoo.android.speedtest.MainTabActivity" name="speedtest" />
+    <item class="com.ookla.mobile4.screens.main.MainActivity" name="speedtest"/>
+    <item class="com.cmsecurity.wifisecurity/ks.cm.antivirus.main.SplashActivity" name="speedtest" />
+    <item class="com.spotify.mobile.android.ui/com.spotify.mobile.android.ui.Launcher" name="spotify" />
+    <item class="com.spotify.mobile.android.ui/com.spotify.mobile.android.ui.activity.MainActivity" name="spotify" />
+    <item class="com.spotify.music/com.spotify.music.MainActivity" name="spotify" />
+    <item class="com.spotify.music.MainActivity" name="spotify" />
+    <item class="com.starbucks.co/com.starbucks.co.IntroActivity" name="starbucks" />
+    <item class="com.starbucks.co/com.starbucks.co.view.intro.Intro" name="starbucks" />
+    <item class="fusion.prime/fusion.prime.ColdSplash" name="truepicks_prime" />
+    <item class="com.badboy.wallun/com.badboy.wallun.MainActivity" name="unusual_wallpapers" />
+    <item class="com.starbucks.mobilecard/com.mfoundry.mobilecard.ui.GatewayActivity" name="starbucks" />
+    <item class="com.starbucks.mobilecard/com.starbucks.mobilecard.activities.MainActivity" name="starbucks" />
+    <item class="com.starbucks.mobilecard/com.starbucks.mobilecard.main.activity.LandingPageActivity" name="starbucks" />
+    <item class="com.starbucks/com.starbucks.StarbucksActivity" name="starbucks" />
+    <item class="com.starbucks/com.starbucks.activity.liao.LoadingActivity" name="starbucks" />
+    <item class="com.starbucks.id/com.starbucks.id.ui.Splash" name="starbucks" />
+    <item class="com.starbucks.de/com.starbucks.emea.pages.main.MainActivity" name="starbucks" />
+    <item class="com.starbucks.mobilecard.main.activity.LandingPageActivity" name="starbucks" />
+    <item class="com.starbucks.mobilecard.main.activity.LandingPageActivity" name="starbucks"/>|
+    <item class="com.brennasoft.findastarbucks/com.brennasoft.coffeefinder.ui.MainActivity" name="starbucks" />
+    <item class="com.brennasoft.findastarbucks/com.brennasoft.findastarbucks.MainActivity" name="starbucks" />
+    <item class="com.brennasoft.findastarbucks/com.brennasoft.findastarbucks.ui.MainActivity" name="starbucks" />
+    <item class="projekt.substratum/projekt.substratum.LauncherActivity" name="substratum" />
+    <item class="projekt.substratum.lite.activity.SplashScreenActivity" name="lite"/>
+    <item class="com.android.calendar/com.android.calendar.LaunchTasksActivity" name="tasks" />
+    <item class="forgepond.com.enterproid.divide.pim/com.enterproid.app.task_zeroFPAlias" name="tasks" />
+    <item class="com.tplink.tpm5/com.tplink.tpm5.view.welcome.WelcomeActivit" name="deco" />
+    <item class="com.todoroo.astrid.activity.TaskListActivity" name="tasks"/>
+    <item class="com.tasks.android.activities.MainActivity" name="tasks"/>
+    <item class="com.ted.android/com.ted.android.view.activity.SplashScreenActivity" name="ted" />
+    <item class="com.termux.app.TermuxActivity" name="termux"/>
+    <item class="ch.threema.app.activities.MainActivity" name="threema"/>
+    <item class="ch.threema.app/ch.threema.app.activities.MainActivity" name="threema" />
+    <item class="com.rascarlo.quick.settings.tiles.MainActivity" name="tiles"/>
+    <item class="com.tmobile.pr.mytmobile/com.tmobile.pr.mytmobile.MyTMobileActivity" name="tmobile" />
+    <item class="com.todoist/com.todoist.activity.HomeActivity" name="todoist" />
+    <item class="com.todoist/com.todoist.activity.HomeActivity" name="todoist" />
+    <item class="com.todoist.promotionupgrader/com.todoist.promotionupgrader.WelcomeActivity" name="todoist" />
+    <item class="com.droid27.transparentclockweather.LauncherActivity" name="transparent_clock_weather"/>
+    <item class="yqtrack.app/yqtrack.app.ui.splash.SplashActivity" name="track_17" />
+    <item class="com.tripadvisor.tripadvisor/com.tripadvisor.tripadvisor.TripAdvisorTripAdvisorActivity" name="tripadvisor" />
+    <item class="com.unity3d.player.UnityPlayerActivity" name="tritos_adventure"/>
+    <item class="com.tumblr/com.tumblr.activity.DashboardActivity" name="tumblr" />
+    <item class="com.tumblr/com.tumblr.activity.RootFragmentActivity" name="tumblr" />
+    <item class="com.tumblr/com.tumblr.activity.TumblrActivity" name="tumblr" />
+    <item class="com.tumblr/com.tumblr.ui.activity.JumpoffActivity" name="tumblr" />
+    <item class="com.tumblr/com.tumblr.ui.activity.RootFragmentActivity" name="tumblr" />
+    <item class="com.tumblr.ui.activity.JumpoffActivity" name="tumblr"/>
+    <item class="tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity" name="twitch" />
+    <item class="tv.twitch.android.app/tv.twitch.android.apps.LandingActivity" name="twitch" />
+    <item class="tv.twitch.android.viewer/tv.twitch.android.apps.SplashScreenActivity" name="twitch" />
+    <item class="tv.twitch.android.viewer/tv.twitch.android.apps.TwitchLandingActivity" name="twitch" />
+    <item class="com.twitter.android.StartActivity" name="twitter" />
+    <item class="com.htc.htctwitter/com.htc.htctwitter.TwidroidSplash" name="twitter" />
+    <item class="com.pantech.app.twitter/com.pantech.app.twitter.activity.snsTabMain" name="twitter" />
+    <item class="com.pantech.app.twitter/com.pantech.app.twitter.twitter" name="twitter" />
+    <item class="com.twitter.android/com.example.nm.TwitterLauncherMainActivity" name="twitter" />
+    <item class="com.twitter.android/com.twitter.android.LoginActivity" name="twitter" />
+    <item class="com.twitter.android/com.twitter.android.MainActivity" name="twitter" />
+    <item class="com.twitter.android/com.twitter.android.StartActivity" name="twitter" />
+    <item class="com.twitter.android/com.twitter.applib.StartActivity" name="twitter" />
+    <item class="com.twitter.browser/com.twitter.browser.Twitter" name="twitter" />
+    <item class="getjar.mss.twitter/getjar.mss.twitter.Twitter" name="twitter" />
+    <item class="com.ubercab/com.ubercab.MapActivity" name="uber" />
+    <item class="com.ubercab/com.ubercab.UBUberActivity" name="uber" />
+    <item class="com.ubercab/com.ubercab.activities.MapActivity" name="uber" />
+    <item class="com.udemy.android/com.udemy.android.SplashActivity" name="udemy" />
+    <item class="com.united.mobile.android/com.united.mobile.android.SplashScreen" name="united_airlines" />
+    <item class="com.ups.mobile.android/com.ups.mobile.android.UPSMobile" name="ups" />
+    <item class="com.ups.mobile.android/md5252de5ee5326fe34d69a668de314d0ce.SplashActivity" name="ups"/> /
+    <item class="com.venmo/com.venmo.TabCentralActivity" name="venmo" />
+    <item class="com.samsung.android.videolist.list.activity.VideoList" name="video"/>
+    <item class="com.huawei.hwvplayer/com.huawei.himovie.ui.login.SplashScreenActivity" name="video" />
+    <item class="com.coloros.video/com.oppo.video.VideoListActivity" name="video" />
+    <item class="com.huawei.hwvplayer/com.huawei.hwvplayer.framework.MainActivity" name="video" />
+    <item class="com.vimeo.android.videoapp/com.vimeo.android.videoapp.activities.authentication.LaunchActivity" name="vimeo" />
+    <item class="org.videolan.vlc/org.videolan.vlc.StartActivity" name="vlc" />
+    <item class="org.videolan.vlc/org.videolan.vlc.gui.MainActivity" name="vlc" />
+    <item class="com.coremobility.app.vnotes/com.coremobility.app.vnotes.CM_VnoteInbox" name="voicemail" />
+    <item class="com.htc.sense.mms/com.htc.sense.mms.ui.VoiceMailTabActivity" name="voicemail" />
+    <item class="com.lge.vvm/com.lge.vvm.ProvisioningStateMachine" name="voicemail" />
+    <item class="com.lge.vvm/com.lge.vvm.authmanager.VvmAuthManagerActivity" name="voicemail" />
+    <item class="com.lge.vvm/com.lge.vvm.launcher.VVMLauncherActivity" name="voicemail" />
+    <item class="com.motorola.android.vvm/com.motorola.android.vvm.ui.VVMMainActivity" name="voicemail" />
+    <item class="com.motorola.visualvoicemail/com.motorola.visualvoicemail.ui.VvmMainActivity" name="voicemail" />
+    <item class="com.motorola.vvm/com.motorola.vvm.ui.VvmMainActivity" name="voicemail" />
+    <item class="com.motorola.vzw.vvm/com.motorola.vzw.vvm.ui.VvmMainActivity" name="voicemail" />
+    <item class="com.pantech.vvm/com.pantech.vvm.StartActivity" name="voicemail" />
+    <item class="com.pantech.vvm/com.pantech.vvm.VVMStartActivity" name="voicemail" />
+    <item class="com.samsung.vvm/com.samsung.vvm.vvmapp.VVMApplication" name="voicemail" />
+    <item class="com.samsung.vvmapp/com.samsung.vvmapp.VVMApplication" name="voicemail" />
+    <item class="com.sprint.voicemail/com.sprint.voicemail.VoiceMailActivity" name="voicemail" />
+    <item class="com.sec.android.app.voicenote.main.VNMainActivity" name="voice_recorder"/>
+    <item class="org.lineageos.recorder/org.lineageos.recorder.RecorderActivity" name="voice_recorder" />
+    <item class="com.vsco.cam/com.vsco.cam.navigation.LithiumActivity" name="vsco" />
+    <item class="com.walmart.android/com.walmart.android.app.HomeActivity" name="walmart" />
+    <item class="com.walmart.android/com.walmart.android.app.main.MainActivity" name="walmart" />
+    <item class="com.walmart.android.app.main.LaunchActivity" name="walmart"/>
+    <item class="wp.wattpad/wp.wattpad.ui.activities.LoginActivity" name="wattpad" />
+    <item class="com.waze/com.waze.FreeMapAppActivity" name="waze" />
+    <item class="com.waze.FreeMapAppActivity" name="waze"/>
+    <item class="net.oneplus.weather.app.MainActivity" name="weather"/>
+    <item class="ccom.lge.sizechangable.weather/com.lge.sizechangable.weather.activities.WeatherActivity_Default" name="weather" />
+    <item class="ccom.weathernews.Weather/com.weathernews.Weather.Startup" name="weather" />
+    <item class="com.Elecont.WeatherClock/com.Elecont.WeatherClock.ElecontWeatherClockActivity" name="weather" />
+    <item class="com.gau.go.launcherex.gowidget.weatherwidget/com.gau.go.launcherex.gowidget.framework.GoWidgetActivity" name="weather" />
+    <item class="com.htc.Weather/com.htc.Weather.WeatherActivity" name="weather" />
+    <item class="com.htc.Weather/com.htc.Weather.WeatherEntry" name="weather" />
+    <item class="com.huawei.android.totemweather/com.huawei.android.totemweather.WeatherHome" name="weather" />
+    <item class="com.lge.sizechangable.weather/com.lge.sizechangable.weather.activities.TodaysViewActivityATNT" name="weather" />
+    <item class="com.lge.sizechangable.weather/com.lge.sizechangable.weather.activities.TodaysViewActivity" name="weather" />
+    <item class="com.lge.sizechangable.weather/com.lge.sizechangable.weather.activities.WeatherActivity_Default_dummy" name="weather" />
+    <item class="com.lge.sizechangable.weather/com.lge.sizechangable.weather.activities.WeatherActivity_Default" name="weather" />
+    <item class="com.lge.sizechangable.weather/com.lge.sizechangable.weather.activities.WeatherActivity_Default" name="weather_lg" />
+    <item class="com.lge.sizechangable.weather/com.lge.sizechangable.weather.activities.WeatherDetailsTabView" name="weather" />
+    <item class="com.macropinch.swan/com.macropinch.swan.WeatherActivity2" name="weather" />
+    <item class="com.macropinch.swan/com.macropinch.swan.activities.WeatherActivity" name="weather" />
+    <item class="com.mg.android/com.mg.weatherpro.SplashActivity" name="weather" />
+    <item class="com.oppo.weather/com.oppo.weather.OppoMainActivity" name="weather" />
+    <item class="com.pantech.weather/com.pantech.weather.app.WeatherDetail" name="weather" />
+    <item class="com.pantech.weather/com.pantech.weather.app.WeatherListActivity" name="weather" />
+    <item class="com.exovoid.weather.app.MainActivity" name="weather_xl"/>
+    <item class="com.tencent.mm/com.tencent.mm.MainActivity" name="wechat" />
+    <item class="com.tencent.mm/com.tencent.mm.WeChatActivity" name="wechat" />
+    <item class="com.tencent.mm/com.tencent.mm.ui.LauncherUI" name="wechat" />
+    <item class="com.bornehltd.weatherpro.activities.SettingActivity" name="weer"/>
+    <item class="com.whatsapp/com.whatsapp.Main13" name="whatsapp" />
+    <item class="com.gbwhatsapp/com.gbwhatsapp.61" name="whatsapp" />
+    <item class="com.whatsapp/com.whatsapp.Main-01" name="whatsapp" />
+    <item class="com.whatsapp/com.whatsapp.Main-02" name="whatsapp" />
+    <item class="com.whatsapp/com.whatsapp.Main-03" name="whatsapp" />
+    <item class="com.whatsapp/com.whatsapp.Main-04" name="whatsapp" />
+    <item class="com.whatsapp/com.whatsapp.Main-05" name="whatsapp" />
+    <item class="com.whatsapp/com.whatsapp.Main-06" name="whatsapp" />
+    <item class="com.whatsapp/com.whatsapp.Main-07" name="whatsapp" />
+    <item class="com.whatsapp/com.whatsapp.Main-08" name="whatsapp" />
+    <item class="com.whatsapp/com.whatsapp.Main-09" name="whatsapp" />
+    <item class="com.whatsapp/com.whatsapp.Main-10" name="whatsapp" />
+    <item class="com.whatsapp/com.whatsapp.Main-11" name="whatsapp" />
+    <item class="com.whatsapp/com.whatsapp.Main-12" name="whatsapp" />
+    <item class="com.whatsapp/com.whatsapp.Main-13" name="whatsapp" />
+    <item class="com.whatsapp/com.whatsapp.Main-14" name="whatsapp" />
+    <item class="com.whatsapp/com.whatsapp.Main-Plus" name="whatsapp" />
+    <item class="com.whatsapp/com.whatsapp.Main3" name="whatsapp" />
+    <item class="com.whatsapp/com.whatsapp.Main" name="whatsapp" />
+    <item class="com.whatsapp.Main" name="whatsapp" />
+    <item class="com.google.android.apps.gcs/com.google.android.apps.gcs.WifiAssistantOptInActivity" name="wifi" />
+    <item class="android.tether/android.tether.MainActivity" name="wifi" />
+    <item class="com.android.settings.wifi/com.android.settings.wifi.TetherSettings" name="wifi" />
+    <item class="com.android.settings.wifi/com.android.settings.wifi.WifiSettings" name="wifi" />
+    <item class="com.android.settings.wifi/com.android.settings.wifi.p2p.WifiP2pSettings" name="wifi" />
+    <item class="com.android.settings/com.android.settings.Settings$TetherSettingsActivity2" name="wifi" />
+    <item class="com.android.settings/com.android.settings.Settings$TetherSettingsActivity" name="wifi" />
+    <item class="com.android.settings/com.android.settings.Settings$WifiSettingsActivity" name="wifi" />
+    <item class="com.android.settings/com.android.settings.TetherSettings" name="wifi" />
+    <item class="com.android.settings/com.android.settings.wifi.WifiApSettings" name="wifi" />
+    <item class="com.googlecode.android.wifi.tether/com.googlecode.android.wifi.tether.MainActivity" name="wifi" />
+    <item class="com.htc.WifiRouter/com.htc.WifiRouter.Intro" name="wifi" />
+    <item class="com.jrdcom.tethering/com.jrdcom.tethering.TetheringActivity" name="wifi" />
+    <item class="com.lenovo.android.settings.tether/com.lenovo.android.settings.tether.TetherSettings" name="wifi" />
+    <item class="com.lge.mobilehotspot.ui/com.lge.mobilehotspot.ui.MHPActivity" name="wifi" />
+    <item class="com.lite.up.wifitether.free/com.lite.up.wifitether.free.WifiHotSpotActivity" name="wifi" />
+    <item class="org.kman.WifiManager/org.kman.WifiManager.WifiControlActivity" name="wifi" />
+    <item class="primiprog.waw/primiprog.waw.Main" name="wifi" />
+    <item class="com.google.android.apps.gcs/com.google.android.apps.gcs.WifiAssistantOptInActivity" name="wifi" />
+    <item class="org.wikipedia/org.wikipedia.WikipediaActivity" name="wikipedia" />
+    <item class="org.wikipedia/org.wikipedia.page.PageActivity" name="wikipedia" />
+    <item class="com.contextlogic.wish/com.contextlogic.wish.ui.activity.login.LoginActivity" name="wish" />
+    <item class="com.contextlogic.wish/com.contextlogic.wish.activity.browse.BrowseActivity" name="wish" />
+    <item class="com.wolfram.android.alpha/com.wolfram.android.alpha.activity.WolframAlpha" name="wolfram" />
+    <item class="org.wordpress.android/org.wordpress.android.Dashboard" name="wordpress" />
+    <item class="org.wordpress.android/org.wordpress.android.splashScreen" name="wordpress" />
+    <item class="org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity" name="wordpress" />
+    <item class="org.wordpress.android/org.wordpress.android.ui.posts.PostsActivity" name="wordpress" />
+    <item class="org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity" name="wordpress" />
+    <item class="com.wwe.universe/com.wwe.universe.start.StartActivity" name="wwe" />
+    <item class="com.microsoft.xboxone.smartglass/com.microsoft.xbox.xle.app.XLEActivity" name="xbox" />
+    <item class="com.quoord.tapatalkxda.activity/com.quoord.tapatalkxda.activity.ForumNavigationActivity" name="xda" />
+    <item class="com.quoord.tapatalkxda.activity/com.quoord.tapatalkxda.activity.forum.ForumNavigationActivity" name="xda" />
+    <item class="com.quoord.xdapad.activity/com.quoord.xdapad.activity.forum.ForumNavigationActivity" name="xda" />
+    <item class="com.yahoo.mobile.client.android.mail.att/com.yahoo.mobile.client.android.mail.activity.MainActivity" name="yahoo_mail" />
+    <item class="com.yahoo.mobile.client.android.mail/com.yahoo.mobile.client.android.mail.activity.MainActivity" name="yahoo_mail" />
+    <item class="com.yahoo.mobile.client.android.mail/com.yahoo.mobile.client.android.mail.activity.MessageList" name="yahoo_mail" />
+    <item class="com.yahoo.mobile.client.android.mail/com.yahoo.mobile.client.android.mail.activity.YahooMail" name="yahoo_mail" />
+    <item class="ru.yandex.searchplugin/ru.yandex.searchplugin.MainActivity" name="yandex" />
+    <item class="com.yandex.browser/com.yandex.browser.YandexBrowserActivity" name="yandex_browser" />
+    <item class="com.yelp.android/com.yelp.android.MainActivity" name="yelp" />
+    <item class="com.yelp.android/com.yelp.android.ui.ActivityNearby" name="yelp" />
+    <item class="com.yelp.android/com.yelp.android.ui.activities.RootActivity" name="yelp" />
+    <item class="com.yummly.android/com.yummly.android.activities.SplashActivity" name="yummly" />
+    <item class="com.zappos.android/com.zappos.android.activities.HomeActivity" name="zappos" />
+    <item class="com.zappos.android/com.zappos.android.activities.StubHomeActivity" name="zappos" />
+    <item class="com.lgi.orionandroid.ui.startup.LaunchActivity" name="ziggo_go"/>
+    <item class="com.zillow.android.rentals/com.zillow.android.rentals.RentalsHomesMapActivity" name="zillow" />
+    <item class="com.zillow.android.zillowmap/com.zillow.android.re.ui.SplashScreenActivity" name="zillow" />
+    <item class="com.zillow.android.zillowmap/com.zillow.android.re.ui.homesmapscreen.HomesMapActivity" name="zillow" />
+    <item class="com.zillow.android.zillowmap/com.zillow.android.zillowmap.ui.apphomescreen.HomeScreenActivity" name="zillow" />
+    <item class="com.zillow.android.zillowmap/com.zillow.android.zillowmap.ui.homesmapscreen.HomesMapActivity" name="zillow" />
+    <item class="com.zipow.videobox.LauncherActivity" name="zoom"/>
+    <item class="com.ext.ui.MainActivity" name="apk_extractor"/>
+    <item class="io.github.muntashirakon.AppManager.main.MainActivity" name="app_manager"/>
+    <item class="com.google.android.apps.dynamite.startup.StartUpActivity" name="chat"/>
+    <item class="com.appsogreat.connect.ActivityFwkHome" name="connect_game"/>
+    <item class="com.cls.networkwidget.activities.MainActivity" name="signal_strength"/>
+    <item class="de.simonmobile.android.ui.MainActivity" name="simon_mobile"/>
+    <item class="org.adaway.ui.MainActivity" name="adaway"/>
+    <item class="com.mixplorer.activities.BrowseActivity" name="mix"/>
+    <item class="com.android.developeroption.developeroption.MainActivity" name="developer_options"/>
+    <item class="com.oneplus.soundrecorder.SoundRecorder" name="recorder"/>
+    <item class="com.unity3d.player.UnityPlayerActivity" name="tritos_adventure"/>
+    <item class="de.deutschlandcard.app.ui.LaunchActivity" name="deutschlandcard"/>
+    <item class="com.ticktick.task.activity.MeTaskActivity" name="ticktick"/>
+    <item class="xyz.klinker.messenger.activity.MessengerActivity" name="pulse_sms"/>
+
+
+
+
+
+
+</appmap>
+
+
+
+
+
