@@ -2,6 +2,7 @@
 <resources>
 	<category title="A" />
 	<item drawable="a12_mix_kwgt" />
+	<item drawable="aethersx2" />
 	<item drawable="acsi" />
 	<item drawable="acons" />
 	<item drawable="a1" />
@@ -18,6 +19,7 @@
 	<item drawable="arcia_kwgt" />
 	<item drawable="artisan" />
 	<item drawable="a94" />
+	<item drawable="all_in_one_toolbox" />
 	<item drawable="aura_klwp" />
 	<item drawable="avast_cleanup" />
 	<item drawable="axis_mobile" />
@@ -318,10 +320,6 @@
 	<item drawable="antitheft" />
 	<item drawable="antivirusfree" />
 	<item drawable="antivirusmobilesec" />
-	<item drawable="antutu" />
-	<item drawable="antutu_3dbench" />
-	<item drawable="antutu_3d" />
-	<item drawable="antutu_benchmark" />
 	<item drawable="anwb" />
 	<item drawable="anydocal" />
 	<item drawable="anydocal1" />
@@ -566,6 +564,7 @@
 	<item drawable="bxactions" />
 	<item drawable="bxlauncher" />
 	<item drawable="b612" />
+	<item drawable="button_mapper" />
 	<item drawable="b92" />
 	<item drawable="babbel" />
 	<item drawable="babbelde" />
@@ -964,6 +963,7 @@
 	<category title="C" />
 	<item drawable="chat" />
 	<item drawable="connect_game" />
+	<item drawable="connect" />
 	<item drawable="c1" />
 	<item drawable="ciclo" />
 	<item drawable="calendar_status_pro" />
@@ -979,7 +979,6 @@
 	<item drawable="control_center" />
 	<item drawable="credit_karma" />
 	<item drawable="cryptogram" />
-	<item drawable="color_converter" />
 	<item drawable="covpass" />
 	<item drawable="card_landscape_15" />
 	<item drawable="celia_walls" />
@@ -1544,6 +1543,7 @@
 	<item drawable="de_lijn" />
 	<item drawable="dhgate" />
 	<item drawable="dhl_paket" />
+	<item drawable="divya_bhaskar" />
 	<item drawable="diabetes" />
 	<item drawable="dialpad" />
 	<item drawable="dialer" />
@@ -1994,6 +1994,7 @@
 	<item drawable="filecommander" />
 	<item drawable="filetomi" />
 	<item drawable="file_manager_one_plus" />
+	<item drawable="file_manager" />
 	<item drawable="files_cleaner" />
 	<item drawable="files_one_plus" />
 	<item drawable="file_expert" />
@@ -3149,6 +3150,8 @@
 	<item drawable="justreader" />
 	<item drawable="justunfollow" />
 	<item drawable="just_dance_now" />
+	<item drawable="john_gbac" />
+	<item drawable="john_ness" />
 	<item drawable="just__park" />
 	<item drawable="just_watch" />
 	<item drawable="jus__talk" />
@@ -3160,7 +3163,7 @@
 	<category title="K" />
 	<item drawable="k1" />
 	<item drawable="k9mail" />
-	<item drawable="k9_mail" />
+	<item drawable="k_9_mail" />
 	<item drawable="kahoot" />
 	<item drawable="king_kwgt" />
 	<item drawable="klck" />
@@ -3259,6 +3262,7 @@
 	<item drawable="klwp" />
 	<item drawable="kmart" />
 	<item drawable="kmplayer" />
+	<item drawable="kmplayer_pro" />
 	<item drawable="knab_bankieren" />
 	<item drawable="knights" />
 	<item drawable="knocklock" />
@@ -3556,6 +3560,14 @@
 	<item drawable="mandirimobile" />
 	<item drawable="manga_dogs" />
 	<item drawable="manga_geek" />
+	<item drawable="magic_dosbox" />
+	<item drawable="mame4droid_0139u1_" />
+	<item drawable="mdemu" />
+	<item drawable="mein_oa" />
+	<item drawable="migrate_flasher" />
+	<item drawable="mini_militia" />
+	<item drawable="mono_1" />
+	<item drawable="myfitnesspal" />
 	<item drawable="manga_rock" />
 	<item drawable="manga__toon" />
 	<item drawable="mango" />
@@ -3793,7 +3805,7 @@
 	<item drawable="microsoft_power_bi" />
 	<item drawable="microsoft_power__apps" />
 	<item drawable="microsoft_share__point" />
-	<item drawable="microsoft_solitaire" />
+	<item drawable="solitaire" />
 	<item drawable="microsoft_staff__hub" />
 	<item drawable="microsoft_teams" />
 	<item drawable="microsoft_translator" />
@@ -4095,6 +4107,7 @@
 	<item drawable="naverblog" />
 	<item drawable="navercontacts" />
 	<item drawable="navermap" />
+	<item drawable="nostalgiagg_pro" />
 	<item drawable="navermedia" />
 	<item drawable="naverndrive" />
 	<item drawable="naver_mail" />
@@ -4739,6 +4752,7 @@
 	<item drawable="pop_99" />
 	<item drawable="portal_pushbullet" />
 	<item drawable="poshmark" />
+	<item drawable="papers" />
 	<item drawable="postbank_finanzassistent" />
 	<item drawable="postepay" />
 	<item drawable="postepay_new" />
@@ -4894,6 +4908,7 @@
 	<item drawable="railcard" />
 	<item drawable="rain" />
 	<item drawable="rai__news" />
+	<item drawable="running" />
 	<item drawable="rai__play" />
 	<item drawable="rai__radio" />
 	<item drawable="rakuten" />
@@ -5333,6 +5348,10 @@
 	<item drawable="settings" />
 	<item drawable="settingsl" />
 	<item drawable="settle_up" />
+	<item drawable="servicely" />
+	<item drawable="sony_liv" />
+	<item drawable="sports_guru_pro" />
+	<item drawable="startracker" />
 	<item drawable="setupwizard" />
 	<item drawable="sevencupsoftea" />
 	<item drawable="sevendigital" />
@@ -6879,6 +6898,7 @@
 	<item drawable="yellowpages" />
 	<item drawable="yelo_play" />
 	<item drawable="yelp" />
+	<item drawable="yasnac" />
 	<item drawable="yemeksepeti" />
 	<item drawable="yen" />
 	<item drawable="yepme" />
@@ -7205,7 +7225,6 @@
 	<item drawable="browser3_alt2"/>
 	<item drawable="coronacheck" />
     <item drawable="calculator_alt"/>
-	<item drawable="c3_all_in_one_toolbox" />
 	<item drawable="calculator_alt2"/>
     <item drawable="calculator_plusplus_alt"/>
 	<item drawable="calculator_plusplus_alt2"/>
@@ -7638,7 +7657,6 @@
 	<item drawable="appmgr_pro" />
 	<item drawable="appsfree" />
 	<item drawable="aulock" />
-	<item drawable="alpha_backup_pro" />
 	<item drawable="apk_extractor" />
     <item drawable="amazon_fire_tv_alt"/>
 	<item drawable="amazon_prime_now_alt"/>

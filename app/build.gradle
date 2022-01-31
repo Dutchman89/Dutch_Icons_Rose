@@ -28,11 +28,11 @@ android {
     compileSdkVersion rootProject.ext.CompileSdk
 
     defaultConfig {
-        applicationId 'com.candybar.dev'
+        applicationId 'com.Dutch.Icons.Rose'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 400000
-        versionName "4.00.0"
+        versionCode 400005
+        versionName "4.00.5"
         multiDexEnabled true
 
         // Remove '/*' and '*/' below to enable OneSignal

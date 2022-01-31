@@ -42,7 +42,7 @@
     <!-- CONFIG: ICON REQUEST -->
     <bool name="enable_icon_request">true</bool>
     <bool name="enable_icon_request_limit">true</bool>
-    <integer name="icon_request_limit">10</integer>
+    <integer name="icon_request_limit">20</integer>
     <bool name="reset_icon_request_limit">true</bool>
     <bool name="json_check_before_request">false</bool>
     <bool name="enable_premium_request">true</bool>
@@ -85,7 +85,7 @@
     <bool name="enable_donation">true</bool>
 
     <!-- CONFIG: MISC -->
-    <bool name="playstore_check_enabled">false</bool>
+    <bool name="playstore_check_enabled">true</bool>
     <string name="config_json">https://zixpo.github.io/candybar-sources/candybar_config_alt.json</string>
     <bool name="show_intro">true</bool>
 

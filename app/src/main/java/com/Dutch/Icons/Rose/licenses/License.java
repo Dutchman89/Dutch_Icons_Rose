@@ -48,10 +48,10 @@ public class License {
      * Format: new InAppBilling("premium request product id", number of icons)
      */
     private static final InAppBilling[] PREMIUM_REQUEST_PRODUCTS = new InAppBilling[]{
-            new InAppBilling("premium_1", 2),
-            new InAppBilling("premium_2", 4),
-            new InAppBilling("premium_3", 6),
-            new InAppBilling("premium_4", 8)
+            new InAppBilling("com.dutch.icons.rose.premium", 2),
+            new InAppBilling("com.dutch.icons.rose.premium_2", 4),
+            new InAppBilling("com.dutch.icons.rose.premium_3", 6),
+            new InAppBilling("com.dutch.icons.rose.premium_4", 8)
     };
 
     /*
@@ -63,9 +63,9 @@ public class License {
      * Format: new InAppBilling("donation product id")
      */
     private static final InAppBilling[] DONATION_PRODUCT = new InAppBilling[]{
-            new InAppBilling("donation.level_1"),
-            new InAppBilling("donation.level_2"),
-            new InAppBilling("donation.level_3")
+            new InAppBilling("com.dutch.icons.rose.mydonationproduct1"),
+            new InAppBilling("com.dutch.icons.rose.mydonationproduct2"),
+            new InAppBilling("com.dutch.icons.rose.mydonationproduct3")
     };
 
     public static boolean isLicenseCheckerEnabled() {
