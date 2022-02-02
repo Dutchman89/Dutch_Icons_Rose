@@ -36,6 +36,46 @@
     <item component="ComponentInfo{com.johnemulators.johngbac/com.johnemulators.activity.RomListActivity}" drawable="john_gbac" />
     <item component="ComponentInfo{com.johnemulators.johnness/com.johnemulators.activity.RomListActivity}" drawable="john_ness" />
     <item component="ComponentInfo{bruenor.magicbox/bruenor.magicbox.uiGameStarterActivity}" drawable="magic_dosbox" />
+    <item component="ComponentInfo{ch.css.active365/de.etherapists.humanoo.signup.ui.view.SplashActivity}" drawable="active365" />
+    <item component="ComponentInfo{com.camsam.plus/de.blitzer.activity.SplashScreen}" drawable="camsam_plus" />
+    <item component="ComponentInfo{ch.admin.bag.covidcertificate.wallet/ch.admin.bag.covidcertificate.wallet.MainActivity}" drawable="covid_cert" />
+    <item component="ComponentInfo{ch.zkb.slv.mobile.client.android/ch.zkb.slv.mobile.client.android.ui.home.HomeActivity}" drawable="ebanking" />
+    <item component="ComponentInfo{com.eat.ch/com.takeaway.android.activity.Splash}" drawable="just_eat" />
+    <item component="ComponentInfo{com.letterboxd.letterboxd/com.letterboxd.letterboxd.ui.activities.LaunchActivity}" drawable="letterboxd" />
+    <item component="ComponentInfo{pi.browser/com.pinetwork.MainActivity}" drawable="pi_browser" />
+    <item component="ComponentInfo{com.revolut.revolut/com.revolut.ui.login.pin.LoginActivity}" drawable="revolut" />
+    <item component="ComponentInfo{ch.sbb.mobile.android.b2c/ch.sbb.mobile.android.vnext.splashscreen.SplashScreenActivity}" drawable="sbb_mobile" />
+    <item component="ComponentInfo{ch.zkb.twint/ch.zkb.twint.ui.StartActivity}" drawable="zkb_twint" />
+    <item component="ComponentInfo{com.myairtelapp/com.myairtelapp.home.views.activities.SplashScreenActivity}" drawable="airtel" />
+    <item component="ComponentInfo{com.pubg.imobile/com.epicgames.ue4.SplashActivity}" drawable="battlegrounds_india" />
+    <item component="ComponentInfo{com.flipkart.android/com.flipkart.android.SplashActivity}" drawable="flipkart" />
+    <item component="ComponentInfo{com.netmarble.mherosgb/com.netmarble.mherosgb.SRNativeActivity}" drawable="future_fight" />
+    <item component="ComponentInfo{com.gaana/com.gaana.SplashScreenActivity}" drawable="gaana" />
+    <item component="ComponentInfo{com.oplus.games/com.oplus.games.ui.main.MainGameActivity}" drawable="games" />
+    <item component="ComponentInfo{com.kmplayer/com.kmplayer.SplashActivity}" drawable="kmplayer" />
+    <item component="ComponentInfo{com.heytap.music/com.nearme.music.splash.SplashActivity}" drawable="music" />
+    <item component="ComponentInfo{com.oyo.consumer/com.oyo.consumer.activity.LauncherActivity}" drawable="oyo" />
+    <item component="ComponentInfo{com.pubg.newstate/com.epicgames.ue4.SplashActivity}" drawable="pubg_new_state" />
+    <item component="ComponentInfo{com.actureunlock/com.actureunlock.MainActivity}" drawable="actuflow" />
+    <item component="ComponentInfo{com.newgen.alwayson/com.newgen.alwayson.activities.PreferencesActivity}" drawable="aoa" />
+    <item component="ComponentInfo{com.digital.bsnl.selfcare/com.selfcare.mybsnl.activities.SplashActivity}" drawable="bsnl_selfcare" />
+    <item component="ComponentInfo{com.motorola.genie/com.motorola.genie.main.start.LaunchActivity}" drawable="device_help" />
+    <item component="ComponentInfo{com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity}" drawable="digital_wellbeing" />
+    <item component="ComponentInfo{com.Dutch.Icons.Rose/com.Dutch.Icons.Rose.activities.SplashActivity}" drawable="dutch_icons_rose" />
+    <item component="ComponentInfo{com.dictionary.mr/com.dictionary.mr.DictionaryActivity}" drawable="english_marathi_dictionary" />
+    <item component="ComponentInfo{com.motorola.fmplayer/com.motorola.fmplayer.ChangeThemeActivity}" drawable="fm_radio" />
+    <item component="ComponentInfo{com.google.android.videos/com.google.android.videos.GoogleTvEntryPoint}" drawable="google_tv" />
+    <item component="ComponentInfo{com.google.android.apps.nbu.paisa.user/com.google.nbu.paisa.flutter.gpay.app.LauncherActivity}" drawable="gpay" />
+    <item component="ComponentInfo{com.samruston.hurry/com.samruston.hurry.ui.events.EventsActivity}" drawable="hurry" />
+    <item component="ComponentInfo{com.ivy.wallet/com.ivy.wallet.ui.IvyActivity}" drawable="ivy_wallet" />
+    <item component="ComponentInfo{com.smitbeat.linum/com.smitbeat.linum.MainActivity}" drawable="linum" />
+    <item component="ComponentInfo{com.intik.teardown/com.intik.teardown.Home}" drawable="liquid_teardown" />
+    <item component="ComponentInfo{com.jndapp.lotus.iconpack/com.jndapp.lotus.iconpack.MainActivity}" drawable="lotus" />
+    <item component="ComponentInfo{com.ounidesigns.mignondark/com.ounidesigns.mignondark.MainActivity}" drawable="mignondark" />
+    <item component="ComponentInfo{com.motorola.moto/com.motorola.assist.ui.screens.MainActivity}" drawable="moto" />
+    <item component="ComponentInfo{com.motorola.ccc.notification/com.motorola.engageapp.ui.EngageActivity}" drawable="motorola_notifications" />
+    <item component="ComponentInfo{com.vg.notepin/com.vg.notepin.MainActivity}" drawable="notepin" />
+    <item component="ComponentInfo{com.gomothegom.olympia/com.gomothegom.olympia.activities.SplashActivity}" drawable="olympia_icon_pack" />
     <item component="ComponentInfo{com.seleuco.mame4droid/com.seleuco.mame4droid.MAME4droid}" drawable="mame4droid_0139u1_" />
     <item component="ComponentInfo{com.explusalpha.MdEmu/com.imagine.BaseActivity}" drawable="mdemu" />
     <item component="ComponentInfo{com.myfitnesspal.android/com.myfitnesspal.android.login.WelcomeActivity}" drawable="myfitnesspal" />

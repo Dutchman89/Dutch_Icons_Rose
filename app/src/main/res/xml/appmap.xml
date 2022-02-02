@@ -45,6 +45,46 @@
     <item class="com.wallpapers.papers.activities.ActivitySplash" name="papers"/>
     <item class="com.dv.adm.pay.Main" name="adm_pro"/>
     <item class="a.a" name="button_mapper"/>
+    <item class="de.etherapists.humanoo.signup.ui.view.SplashActivity" name="active365"/>
+    <item class="de.blitzer.activity.SplashScreen" name="camsam_plus"/>
+    <item class="ch.admin.bag.covidcertificate.wallet.MainActivity" name="covid_cert"/>
+    <item class="ch.zkb.slv.mobile.client.android.ui.home.HomeActivity" name="ebanking"/>
+    <item class="com.takeaway.android.activity.Splash" name="just_eat"/>
+    <item class="com.letterboxd.letterboxd.ui.activities.LaunchActivity" name="letterboxd"/>
+    <item class="com.pinetwork.MainActivity" name="pi_browser"/>
+    <item class="com.revolut.ui.login.pin.LoginActivity" name="revolut"/>
+    <item class="ch.sbb.mobile.android.vnext.splashscreen.SplashScreenActivity" name="sbb_mobile"/>
+    <item class="ch.zkb.twint.ui.StartActivity" name="zkb_twint"/>
+    <item class="com.myairtelapp.home.views.activities.SplashScreenActivity" name="airtel"/>
+    <item class="com.epicgames.ue4.SplashActivity" name="battlegrounds_india"/>
+    <item class="com.flipkart.android.SplashActivity" name="flipkart"/>
+    <item class="com.netmarble.mherosgb.SRNativeActivity" name="future_fight"/>
+    <item class="com.gaana.SplashScreenActivity" name="gaana"/>
+    <item class="com.oplus.games.ui.main.MainGameActivity" name="games"/>
+    <item class="com.kmplayer.SplashActivity" name="kmplayer"/>
+    <item class="com.nearme.music.splash.SplashActivity" name="music"/>
+    <item class="com.oyo.consumer.activity.LauncherActivity" name="oyo"/>
+    <item class="com.epicgames.ue4.SplashActivity" name="pubg_new_state"/>
+    <item class="com.actureunlock.MainActivity" name="actuflow"/>
+    <item class="com.newgen.alwayson.activities.PreferencesActivity" name="aoa"/>
+    <item class="com.selfcare.mybsnl.activities.SplashActivity" name="bsnl_selfcare"/>
+    <item class="com.motorola.genie.main.start.LaunchActivity" name="device_help"/>
+    <item class="com.google.android.apps.wellbeing.settings.LauncherActivity" name="digital_wellbeing"/>
+    <item class="com.Dutch.Icons.Rose.activities.SplashActivity" name="dutch_icons_rose"/>
+    <item class="com.dictionary.mr.DictionaryActivity" name="english_marathi_dictionary"/>
+    <item class="com.motorola.fmplayer.ChangeThemeActivity" name="fm_radio"/>
+    <item class="com.google.android.videos.GoogleTvEntryPoint" name="google_tv"/>
+    <item class="com.google.nbu.paisa.flutter.gpay.app.LauncherActivity" name="gpay"/>
+    <item class="com.samruston.hurry.ui.events.EventsActivity" name="hurry"/>
+    <item class="com.ivy.wallet.ui.IvyActivity" name="ivy_wallet"/>
+    <item class="com.smitbeat.linum.MainActivity" name="linum"/>
+    <item class="com.intik.teardown.Home" name="liquid_teardown"/>
+    <item class="com.jndapp.lotus.iconpack.MainActivity" name="lotus"/>
+    <item class="com.ounidesigns.mignondark.MainActivity" name="mignondark"/>
+    <item class="com.motorola.assist.ui.screens.MainActivity" name="moto"/>
+    <item class="com.motorola.engageapp.ui.EngageActivity" name="motorola_notifications"/>
+    <item class="com.vg.notepin.MainActivity" name="notepin"/>
+    <item class="com.gomothegom.olympia.activities.SplashActivity" name="olympia_icon_pack"/>
     <item class="moe.zhs.caffeine.MainActivity" name="caffeine"/>
     <item class="com.footej.camera.SplashActivity" name="footej_camera_2"/>
     <item class="crc64dd09b2a2e58bb27d.KeePass" name="keepass2android"/>
