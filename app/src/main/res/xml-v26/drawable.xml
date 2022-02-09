@@ -23,6 +23,9 @@
 	<item drawable="aoa" />
 	<item drawable="artisan" />
 	<item drawable="a94" />
+	<item drawable="aa_speakers_free" />
+	<item drawable="android_auto" />
+	<item drawable="area_79_literature_and_resources" />
 	<item drawable="all_in_one_toolbox" />
 	<item drawable="aura_klwp" />
 	<item drawable="avast_cleanup" />
@@ -625,6 +628,7 @@
 	<item drawable="banco__estado" />
 	<item drawable="banco__posta" />
 	<item drawable="band" />
+	<item drawable="belly" />
 	<item drawable="bandcamp" />
 	<item drawable="bandi" />
 	<item drawable="banfield" />
@@ -1137,6 +1141,10 @@
 	<item drawable="checklist" />
 	<item drawable="checkout_51" />
 	<item drawable="cheetah_keyboard" />
+	<item drawable="chart_maker_pro" />
+	<item drawable="cleantime_counter" />
+	<item drawable="coast_capital_savings" />
+	<item drawable="cognifit" />
 	<item drawable="chefkoch" />
 	<item drawable="chelsea" />
 	<item drawable="chess" />
@@ -1832,6 +1840,8 @@
 	<item drawable="enpara_com" />
 	<item drawable="enpass" />
 	<item drawable="entel" />
+	<item drawable="easy_voice_recorder" />
+	<item drawable="echelon_fit" />
 	<item drawable="enterprise" />
 	<item drawable="epic_games_launcher" />
 	<item drawable="epodroznik" />
@@ -1979,7 +1989,9 @@
 	<item drawable="fedex" />
 	<item drawable="fed__mobile_bank" />
 	<item drawable="feedback" />
+	<item drawable="find_device" />
 	<item drawable="feedback_1" />
+	<item drawable="file_explorer_pro" />
 	<item drawable="feedly" />
 	<item drawable="feedme" />
 	<item drawable="floral_kwgt" />
@@ -1997,6 +2009,7 @@
 	<item drawable="fifa15" />
 	<item drawable="fifa15ea" />
 	<item drawable="fifa16" />
+	<item drawable="floating_stickies" />
 	<item drawable="fifa16_ut" />
 	<item drawable="fifa17_companion" />
 	<item drawable="fifa18" />
@@ -3777,7 +3790,10 @@
 	<item drawable="meu_nextel" />
 	<item drawable="meu_tim" />
 	<item drawable="meu_tim_new" />
+	<item drawable="meeting_guide" />
 	<item drawable="meu_vivo_movel" />
+	<item drawable="myphoneexplorer_client" />
+	<item drawable="mpe_notes" />
 	<item drawable="mewe" />
 	<item drawable="mezzo_music_player" />
 	<item drawable="mgerrit" />
@@ -4705,6 +4721,8 @@
 	<item drawable="pixly" />
 	<item drawable="pizap" />
 	<item drawable="pizzahut" />
+	<item drawable="physiotec" />
+	<item drawable="podcast_addict" />
 	<item drawable="pizzahut_new" />
 	<item drawable="pizza_de" />
 	<item drawable="pizza_pizza" />
@@ -4920,6 +4938,7 @@
 	<item drawable="rabobank" />
 	<item drawable="radardetect" />
 	<item drawable="radiantdefense" />
+	<item drawable="rbc_mobile" />
 	<item drawable="radiko" />
 	<item drawable="radio" />
 	<item drawable="ran" />
@@ -5214,6 +5233,7 @@
 	<item drawable="samsungux_soundcamp" />
 	<item drawable="samsungux_storage_saver" />
 	<item drawable="sbb_mobile" />
+	<item drawable="smarthome" />
 	<item drawable="samsungux_s_secure" />
 	<item drawable="samsungux_touch__wiz" />
 	<item drawable="samsungux_video_library" />
@@ -5307,6 +5327,8 @@
 	<item drawable="savingstar" />
 	<item drawable="sai" />
 	<item drawable="sayhi" />
+	<item drawable="step_guide_aa" />
+	<item drawable="step_toolkit" />
 	<item drawable="sbb" />
 	<item drawable="sberbank" />
 	<item drawable="sberbank_spasibo" />

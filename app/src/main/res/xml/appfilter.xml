@@ -51,7 +51,31 @@
     <item component="ComponentInfo{com.flipkart.android/com.flipkart.android.SplashActivity}" drawable="flipkart" />
     <item component="ComponentInfo{com.netmarble.mherosgb/com.netmarble.mherosgb.SRNativeActivity}" drawable="future_fight" />
     <item component="ComponentInfo{com.gaana/com.gaana.SplashScreenActivity}" drawable="gaana" />
+    <item component="ComponentInfo{com.dertsizvebugsiz.chartmakerpro/com.dertsizvebugsiz.chartmakerpro.activities.MainActivity}" drawable="chart_maker_pro" />
+    <item component="ComponentInfo{ru.topot.cleancounter/ru.topot.cleancounter.MainActivity}" drawable="cleantime_counter" />
+    <item component="ComponentInfo{com.coastcapitalsavings.dcu/com.coastcapital.savings.app.pbl.splashscreen.SplashScreenActivity}" drawable="coast_capital_savings" />
+    <item component="ComponentInfo{com.cognifit.app/com.cognifit.app.MainActivity}" drawable="cognifit" />
+    <item component="ComponentInfo{com.coffeebeanventures.easyvoicerecorder/com.digipom.easyvoicerecorder.ui.activity.EasyVoiceRecorderActivity}" drawable="easy_voice_recorder" />
+    <item component="ComponentInfo{com.viatek.fitnation.echelon_android/echelon_android.fitnation.viatek.com.echelon_android_new.SplashActivity}" drawable="echelon_fit" />
+    <item component="ComponentInfo{com.eact.fileexplorer/com.eact.fileexplorer.activities.MainActivity}" drawable="file_explorer_pro" />
+    <item component="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.activities.MainActivity}" drawable="find_device" />
+    <item component="ComponentInfo{genius.mohammad.floating.stickies/genius.mohammad.floating.stickies.MainActivity}" drawable="floating_stickies" />
+    <item component="ComponentInfo{org.meetingguide/host.exp.exponent.MainActivity}" drawable="meeting_guide" />
+    <item component="ComponentInfo{genius.mohammad.floating.stickies/genius.mohammad.floating.stickies.MainActivity}" drawable="floating_stickies" />
+    <item component="ComponentInfo{org.meetingguide/host.exp.exponent.MainActivity}" drawable="meeting_guide" />
+    <item component="ComponentInfo{com.fjsoft.myphoneexplorer.client/com.fjsoft.myphoneexplorer.notes.NoteList}" drawable="mpe_notes" />
+    <item component="ComponentInfo{com.fjsoft.myphoneexplorer.client/com.fjsoft.myphoneexplorer.client.MainActivity}" drawable="myphoneexplorer_client" />
     <item component="ComponentInfo{com.oplus.games/com.oplus.games.ui.main.MainGameActivity}" drawable="games" />
+    <item component="ComponentInfo{org.chromium.webapk.abfadf13a443b14ac_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="area_79_literature_and_resources" />
+    <item component="ComponentInfo{com.bellyflop.android/com.bellyflop.android.ui.activity.loginV2.LoginActivity}" drawable="belly" />
+    <item component="ComponentInfo{ca.physiotec.mobile/ca.physiotec.physiotec.activity.MainActivity}" drawable="physiotec" />
+    <item component="ComponentInfo{com.bambuna.podcastaddict/com.bambuna.podcastaddict.activity.PodcastListActivity}" drawable="podcast_addict" />
+    <item component="ComponentInfo{com.rbc.mobile.android/com.rbc.mobile.bud.pre_auth.common.activity.SplashActivity}" drawable="rbc_mobile" />
+    <item component="ComponentInfo{com.alarm.alarmmobile.android.telus/com.alarm.alarmmobile.android.feature.auth.login.LoginActivity}" drawable="smarthome" />
+    <item component="ComponentInfo{com.ibyteapps.aa12stepguide/com.ibyteapps.aa12stepguide.First}" drawable="step_guide_aa" />
+    <item component="ComponentInfo{com.ibyteapps.aa12steptoolkit/com.ibyteapps.aa12steptoolkit.First}" drawable="step_toolkit" />
+    <item component="ComponentInfo{com.marnistek.aaspeakersfree/com.marnistek.aaspeakersfree.ui.activities.MainActivity}" drawable="aa_speakers_free" />
+    <item component="ComponentInfo{com.google.android.projection.gearhead/com.google.android.gearhead.vanagon.VnLaunchPadActivity}" drawable="android_auto" />
     <item component="ComponentInfo{com.kmplayer/com.kmplayer.SplashActivity}" drawable="kmplayer" />
     <item component="ComponentInfo{com.heytap.music/com.nearme.music.splash.SplashActivity}" drawable="music" />
     <item component="ComponentInfo{com.oyo.consumer/com.oyo.consumer.activity.LauncherActivity}" drawable="oyo" />

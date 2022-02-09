@@ -826,7 +826,29 @@
     <item class="com.roku.remote/com.roku.remote.ui.WelcomeActivity" name="roku" />
     <item class="com.ryanair.cheapflights/com.ryanair.cheapflights.ui.home.HomeActivity" name="ryanair" />
     <item class="eu.thedarken.sdm/eu.thedarken.sdm.main.ui.SDMMainActivity" name="sd_maid" />
+    <item class="ca.physiotec.physiotec.activity.MainActivity" name="physiotec"/>
+    <item class="com.bambuna.podcastaddict.activity.PodcastListActivity" name="podcast_addict"/>
     <item class="eu.thedarken.sdm.unlocker/eu.thedarken.sdm.unlocker.MainActivity" name="sd_maid_pro" />
+    <item class="com.rbc.mobile.bud.pre_auth.common.activity.SplashActivity" name="rbc_mobile"/>
+    <item class="com.alarm.alarmmobile.android.feature.auth.login.LoginActivity" name="smarthome"/>
+    <item class="com.ibyteapps.aa12stepguide.First" name="step_guide_aa"/>
+    <item class="com.ibyteapps.aa12steptoolkit.First" name="step_toolkit"/>
+    <item class="com.marnistek.aaspeakersfree.ui.activities.MainActivity" name="aa_speakers_free"/>
+    <item class="com.google.android.gearhead.vanagon.VnLaunchPadActivity" name="android_auto"/>
+    <item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="area_79_literature_and_resources"/>
+    <item class="com.bellyflop.android.ui.activity.loginV2.LoginActivity" name="belly"/>
+    <item class="com.dertsizvebugsiz.chartmakerpro.activities.MainActivity" name="chart_maker_pro"/>
+    <item class="ru.topot.cleancounter.MainActivity" name="cleantime_counter"/>
+    <item class="com.coastcapital.savings.app.pbl.splashscreen.SplashScreenActivity" name="coast_capital_savings"/>
+    <item class="com.cognifit.app.MainActivity" name="cognifit"/>
+    <item class="com.digipom.easyvoicerecorder.ui.activity.EasyVoiceRecorderActivity" name="easy_voice_recorder"/>
+    <item class="echelon_android.fitnation.viatek.com.echelon_android_new.SplashActivity" name="echelon_fit"/>
+    <item class="com.eact.fileexplorer.activities.MainActivity" name="file_explorer_pro"/>
+    <item class="genius.mohammad.floating.stickies.MainActivity" name="floating_stickies"/>
+    <item class="host.exp.exponent.MainActivity" name="meeting_guide"/>
+    <item class="com.fjsoft.myphoneexplorer.notes.NoteList" name="mpe_notes"/>
+    <item class="com.fjsoft.myphoneexplorer.client.MainActivity" name="myphoneexplorer_client"/>
+    <item class="com.google.android.apps.adm.activities.MainActivity" name="find_device"/>
     <item class="com.experian.android/com.experian.activities.LandingActivity" name="experian" />
     <item class="com.sec.android.app.latin.launcher.camera/com.sec.android.app.latin.launcher.camera.Launcher" name="samsung_camera" />
     <item class="com.sec.android.app.clockpackage.ClockPackage" name="samsung_clock" />
@@ -1078,11 +1100,6 @@
     <item class="de.deutschlandcard.app.ui.LaunchActivity" name="deutschlandcard"/>
     <item class="com.ticktick.task.activity.MeTaskActivity" name="ticktick"/>
     <item class="xyz.klinker.messenger.activity.MessengerActivity" name="pulse_sms"/>
-
-
-
-
-
 
 </appmap>
 
