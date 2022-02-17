@@ -31,8 +31,8 @@ android {
         applicationId 'com.Dutch.Icons.Rose'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 400007
-        versionName "4.00.7"
+        versionCode 400011
+        versionName "4.01.1"
         multiDexEnabled true
 
         // Remove '/*' and '*/' below to enable OneSignal

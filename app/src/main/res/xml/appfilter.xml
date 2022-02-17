@@ -11,9 +11,10 @@
 	<item component=":EMAIL" drawable="samsung_one_email" />
 	<item component=":GALLERY" drawable="galleryl" />
 	<item component=":PHONE" drawable="phone" />
-	<iconback img1="icon_background" />
-	<iconupon img1="icon_overlay" />
-	<scale factor="1.0" />
+    <iconback img1="iconback" />
+    <iconmask img1="iconmask"/>
+    <iconupon img1="iconupon"/>
+    <scale factor="0.85"/>
 	<item component="ComponentInfo{at.mobilkom.android.meina1/at.mobilkom.android.meina1.ui.login.SplashScreenActivity_}" drawable="a1_telekom" />
 	<item component="ComponentInfo{si.mobil.info/md55641087a0e22f7705391e63b92250145.SplashActivity}" drawable="a1_telekom" />
 	<item component="ComponentInfo{hr.infinum.mojvip/hr.infinum.mojvip.activities.PreloadingActivity}" drawable="a1_telekom" />
@@ -31,6 +32,30 @@
 	<item component="ComponentInfo{com.abc.abcnews/com.abc.abcnews.ui.StartActivity}" drawable="abcnews" />
 	<item component="ComponentInfo{com.miracle.abcnews/com.miracle.abcnews.MainView}" drawable="abcnews" />
     <item component="ComponentInfo{flar2.homebutton/a.a}" drawable="button_mapper" />
+    <item component="ComponentInfo{com.google.android.apps.cultural/com.google.android.apps.cultural.web.WebViewActivity}" drawable="arts_and_culture" />
+    <item component="ComponentInfo{rk.android.app.clockwidget/rk.android.app.clockwidget.activity.HomeActivity}" drawable="clock_widgets" />
+    <item component="ComponentInfo{alpacasoft.enlargecorrectimage/alpacasoft.enlargecorrectimage.MainActivity}" drawable="enlarge_and_correct_image" />
+    <item component="ComponentInfo{com.onlineconvert.ocapp/com.onlineconvert.ocapp.MainActivity}" drawable="file_converter" />
+    <item component="ComponentInfo{com.youthhr.fontasy/com.youthhr.fontasy.GoogleFontActivity}" drawable="fontasy" />
+    <item component="ComponentInfo{projekt.launcher/projekt.launcher.ProjektLauncher}" drawable="hyperion" />
+    <item component="ComponentInfo{com.iosxpc.wallpapers/com.iosxpc.wallpapers.MainActivity}" drawable="iosxpc_wallpapers" />
+    <item component="ComponentInfo{se.qzx.isoextractor/se.qzx.isoextractor.ui.IsoExtractorLauncherActivity}" drawable="iso_extractor" />
+    <item component="ComponentInfo{org.proninyaroslav.libretorrent/org.proninyaroslav.libretorrent.ui.main.MainActivity}" drawable="libretorrent" />
+    <item component="ComponentInfo{rk.android.app.android12_notificationwidget/rk.android.app.android12_notificationwidget.activities.splash.SplashActivity}" drawable="notification_widget" />
+    <item component="ComponentInfo{com.youthhr.phonto/com.youthhr.phonto.PhontoActivity}" drawable="phonto" />
+    <item component="ComponentInfo{com.handycloset.android.photolayers/com.handycloset.android.photolayers.MainActivity}" drawable="photolayers" />
+    <item component="ComponentInfo{com.google.android.apps.photos.scanner/com.google.android.apps.photos.scanner.home.HomeActivity}" drawable="photoscan" />
+    <item component="ComponentInfo{com.pashapuma.pix.wallpapers/com.pashapuma.pix.wallpapers.MainActivity}" drawable="pix_wallpapers" />
+    <item component="ComponentInfo{com.google.android.apps.tips/com.google.android.apps.tips.TipsMain}" drawable="pixel_tips" />
+    <item component="ComponentInfo{com.codebrewgames.pocketcitygame/com.codebrewgames.pocketcitygame.MainActivity}" drawable="pocket_city" />
+    <item component="ComponentInfo{org.catrobat.paintroid/org.catrobat.paintroid.MainActivity}" drawable="pocket_paint" />
+    <item component="ComponentInfo{com.rhmsoft.edit.pro/com.rhmsoft.edit.activity.MainActivity}" drawable="quickedit_" />
+    <item component="ComponentInfo{rk.android.app.searchbarwidget/rk.android.app.searchbarwidget.activity.HomeActivity}" drawable="search_widget" />
+    <item component="ComponentInfo{rk.android.app.shortcutmaker/rk.android.app.shortcutmaker.CommonMethods.SplashScreenActivity}" drawable="shortcut_maker" />
+    <item component="ComponentInfo{com.inglesdivino.vectorassetcreator/com.inglesdivino.vectorassetcreator.MainActivity}" drawable="vector_asset_creator" />
+    <item component="ComponentInfo{com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity}" drawable="voice" />
+    <item component="ComponentInfo{com.youthhr.vont/com.youthhr.vont.VontActivity}" drawable="vont" />
+    <item component="ComponentInfo{com.playtika.wsop.gp/com.playtika.wsop.GameAppActivity}" drawable="wsop" />
     <item component="ComponentInfo{xyz.aethersx2.android/xyz.aethersx2.android.MainActivity}" drawable="aethersx2" />
     <item component="ComponentInfo{com.homeretailgroup.argos.android/com.homeretailgroup.argos.android.splash.SplashActivity_Default}" drawable="argos" />
     <item component="ComponentInfo{com.johnemulators.johngbac/com.johnemulators.activity.RomListActivity}" drawable="john_gbac" />

@@ -14,6 +14,7 @@
 	<item drawable="airtel" />
 	<item drawable="amoled_wallpapers" />
 	<item drawable="amoledpix" />
+	<item drawable="arts_and_culture" />
 	<item drawable="a2048" />
 	<item drawable="andro_12_kwgt" />
 	<item drawable="android_12_widget" />
@@ -1049,6 +1050,7 @@
 	<item drawable="canara_bank" />
 	<item drawable="candid" />
 	<item drawable="candy" />
+	<item drawable="clock_widgets" />
 	<item drawable="candycons" />
 	<item drawable="candycrush" />
 	<item drawable="candysoda" />
@@ -1804,6 +1806,7 @@
 	<item drawable="ecotap"/>
 	<item drawable="efteling"/>
 	<item drawable="enlighten"/>
+	<item drawable="enlarge_and_correct_image"/>
 	<item drawable="evernote"/>
 	<item drawable="eightball" />
 	<item drawable="eightfit" />
@@ -2102,7 +2105,10 @@
 	<item drawable="flipboard" />
 	<item drawable="flipboard_alt" />
 	<item drawable="flipkart" />
+	<item drawable="file_converter" />
 	<item drawable="flipkart_online_shopping" />
+	<item drawable="fontasy" />
+	<item drawable="file_converter" />
 	<item drawable="flipp" />
 	<item drawable="flitsmeister" />
 	<item drawable="flitsmeister_new" />
@@ -2892,6 +2898,7 @@
 	<item drawable="hurry" />
 	<item drawable="hungryhouse" />
 	<item drawable="hungryshark" />
+	<item drawable="hyperion" />
 	<item drawable="hungry_jacks" />
 	<item drawable="hunter_assassin" />
 	<item drawable="huntington" />
@@ -2913,6 +2920,13 @@
 	<item drawable="ice" />
 	<item drawable="icicibank" />
 	<item drawable="icon" />
+	<item drawable="iconback" />
+	<item drawable="iconback2" />
+	<item drawable="iconback3" />
+	<item drawable="iconback4" />
+	<item drawable="iconback5" />
+	<item drawable="iconmask" />
+	<item drawable="iconunpon" />
 	<item drawable="iconchanger" />
 	<item drawable="iconchangerr" />
 	<item drawable="irc" />
@@ -2985,7 +2999,9 @@
 	<item drawable="image_2_wallpaper" />
 	<item drawable="imagin_caixa_bank" />
 	<item drawable="imapmyrun" />
+	<item drawable="iosxpc_wallpapers" />
 	<item drawable="imdb" />
+	<item drawable="iso_extractor" />
 	<item drawable="idm_2019" />
 	<item drawable="imediashare" />
 	<item drawable="imgur" />
@@ -3351,6 +3367,7 @@
 	<item drawable="lady_pill_reminder" />
 	<item drawable="lalalab" />
 	<item drawable="laligatv" />
+	<item drawable="libretorrent" />
 	<item drawable="lamborghini" />
 	<item drawable="lamoda" />
 	<item drawable="lansforsakringar" />
@@ -4197,6 +4214,7 @@
 	<item drawable="netmeds" />
 	<item drawable="netshoes" />
 	<item drawable="netspend" />
+	<item drawable="notification_widget" />
 	<item drawable="netfit_easy" />
 	<item drawable="network_speed_indicator" />
 	<item drawable="net__benefits" />
@@ -4580,9 +4598,16 @@
 	<item drawable="pay__maya" />
 	<item drawable="pay__pay" />
 	<item drawable="pay__tren" />
+	<item drawable="phonto" />
 	<item drawable="pcloud" />
+	<item drawable="photolayers" />
 	<item drawable="pcradio" />
+	<item drawable="photoscan" />
 	<item drawable="pc_optimum" />
+	<item drawable="pix_wallpapers" />
+	<item drawable="pixel_tips" />
+	<item drawable="pocket_city" />
+	<item drawable="pocket_paint" />
 	<item drawable="pdanet" />
 	<item drawable="pdanetfoxfi" />
 	<item drawable="ph_viewer" />
@@ -4890,6 +4915,7 @@
 	<item drawable="qq" />
 	<item drawable="qr" />
 	<item drawable="qr_scanner" />
+	<item drawable="quickedit_" />
 	<item drawable="qr1" />
 	<item drawable="qrdroid" />
 	<item drawable="qrscanner" />
@@ -5173,6 +5199,8 @@
 	<item drawable="samsung_tag_board" />
 	<item drawable="saavn" />
 	<item drawable="satellite" />
+	<item drawable="search_widget" />
+	<item drawable="shortcut_maker" />
 	<item drawable="solitaire_quest_elven_wonderland_story" />
 	<item drawable="safety" />
 	<item drawable="syslog" />
@@ -6434,6 +6462,9 @@
 	<item drawable="vaulty" />
 	<item drawable="vbb" />
 	<item drawable="vdm" />
+	<item drawable="vector_asset_creator" />
+	<item drawable="voice" />
+	<item drawable="vont" />
 	<item drawable="v_appstore" />
 	<item drawable="vectorscapes" />
 	<item drawable="verrone_kwgt" />
@@ -6625,6 +6656,7 @@
 	<item drawable="wallet_capital_one" />
 	<item drawable="wallet_cards" />
 	<item drawable="walli" />
+	<item drawable="wsop" />
 	<item drawable="wallmax" />
 	<item drawable="walloid" />
 	<item drawable="wallpaper" />
